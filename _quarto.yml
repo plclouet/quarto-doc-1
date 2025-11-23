@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "quarto-doc-1"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - text: "Introduction"
+        href: introduction.qmd
+      - section: "Basics"
+        
+        contents:
+          - index.qmd
+          - basics.qmd
+        
+
+
+format:
+  html:
+    theme:
+      - superhero
+      - brand
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto-doc-1",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Home",
+      "Basics",
+      "quarto-doc-1"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "Basics/introduction.html",
+    "href": "Basics/introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "c’est une introduction au site"
+  },
+  {
+    "objectID": "basics.html",
+    "href": "basics.html",
+    "title": "Basics",
+    "section": "",
+    "text": "Les bases",
+    "crumbs": [
+      "Home",
+      "Basics",
+      "Basics"
+    ]
+  },
+  {
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "c’est une introduction au site",
+    "crumbs": [
+      "Home",
+      "Introduction"
+    ]
+  }
+]
