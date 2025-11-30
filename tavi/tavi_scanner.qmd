@@ -1,0 +1,52 @@
+---
+title: "scanner"
+---
+
+
+
+# Protocole d'acquisition
+
+## score calcique valvulaire aortique
+
+faire une acquisition de score calcique mais avec calcul du score calcique valvulaire aortique
+Le but est de savoir si la sténose est serrée:
+
+* 1600-2000 chez l'homme,
+* 1300-1600 chez la femme
+
+Nécessité	de	disposer	d’un	scanner	avec synchronisation	à	l’ECG	(gating)
+
+## acquisition injectée
+
+Acquisition	cervico-thoraco-abdomino-pelvienne synchronisée	à l’ECG	après injection	de	produit	de contraste iodé centrée sur le coeur
+
+---
+
+
+
+::: 
+
+![image 1](tavi-1.png)
+
+<!-- ![image 2](dd454.jpg)
+
+![image 3](dd908.jpg) -->
+
+:::
+
+---
+
+# Commentaires
+
+Les reconstructions coronales permettent une meilleure appréciation de la taille réelle du nodule.  
+La courbe d'évolution montre une stabilité sur 12 mois.
+
+---
+
+# un autre paragraphe
+
+Les reconstructions coronales permettent une meilleure appréciation de la taille réelle du nodule.  
+La courbe d'évolution montre une stabilité sur 12 mois.
+
+
+

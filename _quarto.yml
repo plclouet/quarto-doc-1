@@ -1,9 +1,9 @@
 project:
   type: website
   output-dir: docs
-
+ 
 website:
-  title: "quarto-doc-1"
+  title: "radiologie15"
   navbar:
     left:
       - href: index.qmd
@@ -13,16 +13,17 @@ website:
     style: "docked"
     search: true
     contents:
-      - text: "Introduction"
-        href: introduction.qmd
-      - section: "Basics"
-        
+      - text: "Index"
+        href: index.qmd
+      - section: "About"
         contents:
-          - index.qmd
-          - basics.qmd
-        
-
-
+          - introduction.qmd
+          - about.qmd
+      - section: "TAVI"
+        contents:
+          - tavi/tavi_scanner.qmd
+          - cas.qmd
+          
 format:
   html:
     theme:
@@ -30,6 +31,9 @@ format:
       - brand
     css: styles.css
     toc: true
+    toc-title: "Sur cette page"
+    page-layout: full
+    lightbox: true
 
 
 

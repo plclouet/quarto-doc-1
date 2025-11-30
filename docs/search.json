@@ -1,13 +1,49 @@
 [
   {
-    "objectID": "introduction.html",
-    "href": "introduction.html",
-    "title": "Introduction",
+    "objectID": "tavi/tavi_scanner.html",
+    "href": "tavi/tavi_scanner.html",
+    "title": "scanner",
     "section": "",
-    "text": "c’est une introduction au site",
+    "text": "faire une acquisition de score calcique mais avec calcul du score calcique valvulaire aortique Le but est de savoir si la sténose est serrée:\n\n1600-2000 chez l’homme,\n1300-1600 chez la femme\n\nNécessité de disposer d’un scanner avec synchronisation à l’ECG (gating)\n\n\n\nAcquisition cervico-thoraco-abdomino-pelvienne synchronisée à l’ECG après injection de produit de contraste iodé centrée sur le coeur\n\n:::\n\n\n\nimage 1\n\n\n\n:::",
     "crumbs": [
       "Home",
-      "Introduction"
+      "TAVI",
+      "scanner"
+    ]
+  },
+  {
+    "objectID": "tavi/tavi_scanner.html#score-calcique-valvulaire-aortique",
+    "href": "tavi/tavi_scanner.html#score-calcique-valvulaire-aortique",
+    "title": "scanner",
+    "section": "",
+    "text": "faire une acquisition de score calcique mais avec calcul du score calcique valvulaire aortique Le but est de savoir si la sténose est serrée:\n\n1600-2000 chez l’homme,\n1300-1600 chez la femme\n\nNécessité de disposer d’un scanner avec synchronisation à l’ECG (gating)",
+    "crumbs": [
+      "Home",
+      "TAVI",
+      "scanner"
+    ]
+  },
+  {
+    "objectID": "tavi/tavi_scanner.html#acquisition-injectée",
+    "href": "tavi/tavi_scanner.html#acquisition-injectée",
+    "title": "scanner",
+    "section": "",
+    "text": "Acquisition cervico-thoraco-abdomino-pelvienne synchronisée à l’ECG après injection de produit de contraste iodé centrée sur le coeur\n\n:::\n\n\n\nimage 1\n\n\n\n:::",
+    "crumbs": [
+      "Home",
+      "TAVI",
+      "scanner"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto",
+    "section": "",
+    "text": "c’est un site fait avec Qarto\nPour en savoir plus suivez ce lien https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Home",
+      "Index"
     ]
   },
   {
@@ -15,30 +51,42 @@
     "href": "basics.html",
     "title": "Basics",
     "section": "",
-    "text": "Les bases",
-    "crumbs": [
-      "Home",
-      "Basics",
-      "Basics"
-    ]
+    "text": "Les bases"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "quarto-doc-1",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "text": "Qui suis-je ?",
     "crumbs": [
       "Home",
-      "Basics",
-      "quarto-doc-1"
+      "About",
+      "About"
+    ]
+  },
+  {
+    "objectID": "cas.html",
+    "href": "cas.html",
+    "title": "cas cliniques",
+    "section": "",
+    "text": "Présentation du cas\nPatiente de 63 ans, découverte fortuite d’un nodule pulmonaire au scanner thoracique…\n\n\n\n\n\nimage 1\n\n\n\n\n\nimage 2\n\n\n\n\n\nimage 3\n\n\n\n\n\n\nCommentaires\nLes reconstructions coronales permettent une meilleure appréciation de la taille réelle du nodule.\nLa courbe d’évolution montre une stabilité sur 12 mois.\n\n\n\nun autre paragraphe\nLes reconstructions coronales permettent une meilleure appréciation de la taille réelle du nodule.\nLa courbe d’évolution montre une stabilité sur 12 mois.",
+    "crumbs": [
+      "Home",
+      "TAVI",
+      "cas cliniques"
+    ]
+  },
+  {
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "c’est une introduction au site",
+    "crumbs": [
+      "Home",
+      "About",
+      "Introduction"
     ]
   }
 ]

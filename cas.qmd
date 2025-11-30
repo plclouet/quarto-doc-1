@@ -1,0 +1,40 @@
+---
+title: "cas cliniques"
+---
+
+
+
+# Présentation du cas
+
+Patiente de 63 ans, découverte fortuite d'un nodule pulmonaire au scanner thoracique…
+
+---
+
+
+
+::: {.image-row}
+
+![image 1](images/dd370.jpg)
+
+![image 2](images/dd454.jpg)
+
+![image 3](images/dd908.jpg)
+
+:::
+
+---
+
+# Commentaires
+
+Les reconstructions coronales permettent une meilleure appréciation de la taille réelle du nodule.  
+La courbe d'évolution montre une stabilité sur 12 mois.
+
+---
+
+# un autre paragraphe
+
+Les reconstructions coronales permettent une meilleure appréciation de la taille réelle du nodule.  
+La courbe d'évolution montre une stabilité sur 12 mois.
+
+
+
