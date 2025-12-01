@@ -188,6 +188,12 @@ La sécurité du produit de contraste repose sur :
 > **Conclusion :** sténose serrée (> 70 %) de l’IVA proximale liée à une plaque non calcifiée.  
 > Recommandation de coronarographie invasive en vue d’une éventuelle revascularisation.
 
+***
+
+La classification CAD-RADS résume la conclusion
+
+![CAD-RADS](images/coroscanner_5.png)
+
 ## 12. Place du coroscanner dans la prise en charge globale
 
 Le coroscanner occupe une place centrale dans la stratégie diagnostique de la maladie coronarienne :
