@@ -52,7 +52,7 @@
     "href": "introduction.html",
     "title": "Introduction",
     "section": "",
-    "text": "sujets abordés\n\nLe score calcique coronarien\nle coroscanner\nle bilan avant implantation d’une prothèse pour rétrécissement aortique (TAVI)",
+    "text": "Votre médecin vous a prescris un scanner cardiaque et vous vous en savoir un peu plus avant de passer votre examen. Nous allons essayer de vous apporter les informations nécessaires. Choisissez votre examen et laissez vous guider",
     "crumbs": [
       "Home",
       "About",
@@ -239,7 +239,7 @@
     "href": "about.html",
     "title": "Contre-indications",
     "section": "",
-    "text": "Contre-indications aux béta-bloquants\n\nBAV de haut degré non appareillé\nasthme, bronchite chronique obstructive (+)\nsyndrome de Raynaud\nbradycardie &lt; 45/min\ninsuffisance cardiaque non contrôlée (+)\nchoc cardiogénique\nspasme coronaire\ndiabète (pour ne pas masquer les signes d’hypoglycémie)\n\n\n\ncontre-indications aux dérivés nitrés\n\nHypersensibilité aux dérivés nitrés\nHypertrophie cardiaque\nHypotension artérielle\nÉtat de choc\nSténose aortique sévère =&gt; TAVI (++)\nHypertension intracrânienne",
+    "text": "Au décours d’un coroscanner, nous serons peut-être obligés de vous administrer un bétabloquant par voie intra-veineuse et un dérivé nitré par voie sublinguale. Vérifiez l’absence de contre-indication à ces médicaments\n\nContre-indications aux béta-bloquants\n\nBAV de haut degré non appareillé\nasthme, bronchite chronique obstructive (+)\nsyndrome de Raynaud\nbradycardie &lt; 45/min\ninsuffisance cardiaque non contrôlée (+)\nchoc cardiogénique\nspasme coronaire\ndiabète (pour ne pas masquer les signes d’hypoglycémie)\n\n\n\ncontre-indications aux dérivés nitrés\n\nHypersensibilité aux dérivés nitrés\nHypertrophie cardiaque\nHypotension artérielle\nÉtat de choc\nSténose aortique sévère =&gt; TAVI (++)\nHypertension intracrânienne",
     "crumbs": [
       "Home",
       "About",
@@ -256,9 +256,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Quarto",
+    "title": "Radiologie15",
     "section": "",
-    "text": "c’est un site fait avec Qarto\nPour en savoir plus suivez ce lien https://quarto.org/docs/websites.",
+    "text": "Bienvenue sur notre site dédié à l’imagerie cardiaque\n\nsujets abordés\n\nLe score calcique coronarien\nle coroscanner\nle bilan avant implantation d’une prothèse pour rétrécissement aortique (TAVI)\n\nPour prendre rendez-vous suivez ce lien https://www.radiologie15.com.\nPL CLOUET",
     "crumbs": [
       "Home",
       "Index"

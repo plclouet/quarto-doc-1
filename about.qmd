@@ -2,6 +2,10 @@
 title: "Contre-indications"
 ---
 
+Au décours d'un coroscanner, nous serons peut-être obligés de vous administrer un bétabloquant par voie intra-veineuse et un dérivé nitré par voie sublinguale.
+Vérifiez l'absence de contre-indication à ces médicaments
+
+
 # Contre-indications aux béta-bloquants
 
 - BAV de haut degré non appareillé 

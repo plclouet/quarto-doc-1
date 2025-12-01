@@ -1,7 +1,18 @@
 ---
-title: "Quarto"
+title: Radiologie15
 ---
 
-c'est un site fait avec Qarto
+Bienvenue sur notre site dédié à l'imagerie cardiaque
 
-Pour en savoir plus suivez ce lien <https://quarto.org/docs/websites>.
+# sujets abordés
+
+- Le score calcique coronarien
+- le coroscanner
+- le bilan avant implantation d'une prothèse pour rétrécissement aortique (TAVI)
+
+
+Pour prendre rendez-vous suivez ce lien <https://www.radiologie15.com>.
+
+
+
+PL CLOUET
