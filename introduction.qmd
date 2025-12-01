@@ -2,4 +2,11 @@
 title: "Introduction"
 ---
 
-c'est une introduction au site
+# sujets abordés
+
+- Le score calcique coronarien
+- le coroscanner
+- le bilan avant implantation d'une prothèse pour rétrécissement aortique (TAVI)
+
+
+

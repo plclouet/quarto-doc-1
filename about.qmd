@@ -1,5 +1,24 @@
 ---
-title: "About"
+title: "Contre-indications"
 ---
 
-Qui suis-je ?
+# Contre-indications aux béta-bloquants
+
+- BAV de haut degré non appareillé 
+- asthme, bronchite chronique obstructive (+)
+- syndrome de Raynaud
+- bradycardie < 45/min
+- insuffisance cardiaque non contrôlée (+)
+- choc cardiogénique
+- spasme coronaire
+- diabète (pour ne pas masquer les signes d’hypoglycémie)
+
+
+# contre-indications aux dérivés nitrés
+
+- Hypersensibilité aux dérivés nitrés
+- Hypertrophie cardiaque
+- Hypotension artérielle
+- État de choc
+- Sténose aortique sévère => TAVI (++)
+- Hypertension intracrânienne

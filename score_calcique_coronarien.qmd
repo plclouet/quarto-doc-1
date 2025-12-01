@@ -1,0 +1,170 @@
+---
+title: "Score calcique coronarien"
+author: "PLC"
+lang: fr
+---
+
+# Le score calcique coronarien : un indicateur clé du risque cardiovasculaire
+
+## 1. Introduction
+
+Le **score calcique coronarien** — souvent appelé *score de calcium* ou *Agatston score* — est un outil d’imagerie non invasif permettant de quantifier la charge de calcifications présentes dans les artères coronaires à partir d’un **scanner cardiaque sans injection**.
+
+Il constitue aujourd’hui un **marqueur majeur du risque d’événements coronariens** (syndrome coronarien aigu, infarctus du myocarde, revascularisation, décès cardiovasculaire).
+
+## 2. Qu’est-ce que le score calcique ?
+
+Le score calcique est obtenu grâce à un **scanner cardiaque à faible dose de rayons X**, le plus souvent synchronisé à l’ECG, afin de repérer et de quantifier les dépôts de calcium dans les parois des artères coronaires.
+
+Le calcium coronaire témoigne d’une **athérosclérose déjà constituée** : plus il y a de calcium, plus le patient a accumulé des lésions athéromateuses au cours du temps. Il s’agit donc d’un **marqueur de charge athéromateuse globale**, et non uniquement d’un reflet de sténoses significatives.
+
+## 3. Principe technique de l’examen
+
+- Examen réalisé sur un **scanner multibarrette**.
+- Acquisition centrée sur le cœur, généralement en **apnée courte**.
+- Synchronisation à l’ECG (souvent en télésystole ou télédiastole selon les protocoles).
+- Aucune injection de produit de contraste iodé.
+- Irradiation faible (ordre de grandeur : ≈ 1 mSv, variable selon les appareils et protocoles).
+
+Les images obtenues permettent de détecter les zones de forte densité calcique dans les artères coronaires, qui sont ensuite quantifiées par un logiciel dédié.
+
+![score calcique](images/scc_1.jpg)
+
+## 4. Comment est calculé le score ?
+
+Le score calcique le plus utilisé est le **score d’Agatston**. Il se calcule en plusieurs étapes :
+
+1. **Seuil de densité**  
+   Les voxels dont la densité est **≥ 130 unités Hounsfield (UH)** sont considérés comme potentiellement calcifiés.
+
+2. **Définition des lésions**  
+   Une lésion calcique est définie comme un ensemble contigu de voxels calcifiés avec une surface minimale (par exemple ≥ 1 mm², selon les logiciels).
+
+3. **Calcul de la surface**  
+   Pour chaque lésion, on mesure la **surface** en mm² sur les coupes scanographiques.
+
+4. **Pondération par la densité**  
+   À chaque lésion, on associe un **facteur de pondération** basé sur la densité maximale :
+   - 130–199 UH : facteur 1
+   - 200–299 UH : facteur 2
+   - 300–399 UH : facteur 3
+   - ≥ 400 UH : facteur 4
+
+5. **Score d’Agatston lésionnel**  
+   Pour chaque lésion :  
+   *Score lésionnel = surface (mm²) × facteur de densité*.
+
+6. **Score total**  
+   Le **score total d’Agatston** est la **somme** des scores de toutes les lésions calciques des principales artères coronaires :
+   - tronc commun (TC),
+   - artère interventriculaire antérieure (IVA),
+   - artère circonflexe (CX),
+   - artère coronaire droite (CD).
+
+Certains logiciels fournissent également :
+- un score **par artère**,
+- un **volume calcique**,
+- une **masse calcique** (moins dépendante des paramètres d’acquisition).
+
+## 5. Interprétation du score
+
+### 5.1 Classes de risque usuelles
+
+Une classification couramment utilisée est :
+
+| Score Agatston total | Interprétation                      | Risque approximatif |
+|----------------------|-------------------------------------|---------------------|
+| 0                    | Aucun calcium détectable            | Très faible         |
+| 1–10                 | Calcifications minimes              | Faible              |
+| 11–100               | Calcifications modérées             | Faible à intermédiaire |
+| 101–400              | Calcifications significatives       | Intermédiaire à élevé |
+| > 400                | Calcifications sévères              | Élevé               |
+
+### 5.2 Notion de percentile
+
+Au-delà de la valeur absolue du score, il est souvent utile de le **rapporter à l’âge et au sexe du patient** via des **courbes de percentiles** (ex. tables MESA).
+
+- Un score qui se situe au-dessus du **75e percentile** pour l’âge et le sexe correspond à un **risque plus élevé** que celui de la population de référence.
+- Un score de **0**, quel que soit l’âge, est généralement rassurant et associé à un très bon pronostic à moyen terme.
+
+## 6. Indications principales
+
+Le score calcique est surtout utile chez les patients **asymptomatiques** ou peu symptomatiques, pour affiner la **stratification du risque cardiovasculaire**.
+
+### 6.1 Situations typiques
+
+- Sujet de **40 à 75 ans**, sans antécédent cardiovasculaire, avec un **risque cardiovasculaire global intermédiaire** selon les scores cliniques (SCORE2, PCE, etc.).
+- Patient avec **facteurs de risque modérés** (antécédents familiaux de maladie coronaire précoce, dyslipidémie, tabagisme, HTA) pour aider à décider de l’introduction d’un **traitement par statine**.
+- Patient réticent à débuter un traitement de prévention primaire : un score calcique élevé peut faciliter la **discussion thérapeutique**.
+
+### 6.2 Situations où le score est moins pertinent
+
+- Patient déjà à **très haut risque** (antécédent d’infarctus, de revascularisation, diabète compliqué, etc.) : le score n’apporte en général pas d’information susceptible de modifier la prise en charge.
+- Suspicion de **syndrome coronarien aigu** : il ne s’agit pas d’un examen d’urgence et il ne permet pas d’évaluer une sténose en temps réel.
+- Patient très âgé : la prévalence du calcium est très élevée et la plus-value clinique peut être limitée.
+
+## 7. Intérêt clinique
+
+### 7.1 Avantages
+
+- **Examen rapide** (quelques minutes), **indolore**, non invasif.
+- **Absence d’injection** de produit de contraste.
+- **Faible irradiation** par rapport à d’autres explorations.
+- Excellente **valeur prédictive négative** : un **score = 0** est associé à un **risque très faible** d’événement coronaire à 5–10 ans chez les patients asymptomatiques.
+- Permet :
+  - d’**affiner la stratification** du risque,
+  - d’aider à la **décision thérapeutique** (statine, aspirine dans certains cas),
+  - de renforcer la **motivation du patient** aux mesures hygiéno-diététiques en visualisant les calcifications.
+
+### 7.2 Limites
+
+- Ne détecte pas les **plaques non calcifiées**, qui peuvent pourtant être vulnérables et responsables de syndromes coronariens aigus.
+- Ne donne pas la **sévérité des sténoses** en termes de réduction de calibre (à la différence de l’angio-TDM coronarienne).
+- Résultats dépendants de la **qualité de l’acquisition** (rythme cardiaque, mouvements, artefacts).
+- Interprétation qui doit toujours être replacée dans le **contexte clinique** global.
+
+## 8. Exemples cliniques (vignettes simplifiées)
+
+### 8.1 Score = 0
+
+Homme de 55 ans, dyslipidémique, léger surpoids, non fumeur, sans symptôme :
+- Score calcique = 0.
+- Risque d’événement coronaire à 10 ans très faible.
+- On peut discuter d’une simple **prévention hygiéno-diététique** et éventuellement de différer la statine selon les recommandations et le profil global.
+
+### 8.2 Score = 150
+
+Femme de 60 ans, HTA bien contrôlée, antécédents familiaux de maladie coronaire :
+- Score calcique = 150, principalement sur l’IVA.
+- Athérosclérose déjà constituée.
+- Justifie en général :
+  - **introduction ou intensification** d’un traitement par statine,
+  - prise en charge active des facteurs de risque,
+  - discussion (selon le contexte) d’aspirine à faible dose si le rapport bénéfice/risque est favorable.
+
+### 8.3 Score > 400
+
+Homme de 65 ans, fumeur actif, diabétique :
+- Score calcique = 600.
+- Maladie athéromateuse coronarienne **sévère**.
+- Risque élevé d’événement coronarien.
+- Conduite :
+  - **prévention agressive** (statine forte intensité, arrêt du tabac, contrôle strict de la pression artérielle et du diabète),
+  - discussion d’examens complémentaires (ex. épreuve d’effort, écho de stress, voire angio-TDM coronarienne selon le contexte clinique).
+
+## 9. Perspectives et développements récents
+
+- Intégration du score calcique dans des **scores composites** de risque (ex. MESA, CAC-DRS).
+- Développement d’outils d’**intelligence artificielle** pour :
+  - la détection automatique des calcifications,
+  - l’estimation opportuniste du score sur des scanners thoraciques réalisés pour d’autres indications.
+- Utilisation croissante du score calcique dans les **recommandations internationales** pour la prévention primaire de la maladie coronarienne.
+
+## 10. Conclusion
+
+Le **score calcique coronarien** est un outil simple, rapide et robuste pour évaluer la **charge athéromateuse coronaire** et affiner la **stratification du risque cardiovasculaire**, en particulier en prévention primaire chez les patients à risque intermédiaire.
+
+- Un **score = 0** est généralement très rassurant.
+- Un **score élevé** doit conduire à renforcer la prévention, en particulier le traitement hypolipémiant et la correction des facteurs de risque.
+
+Son interprétation doit toujours être réalisée **en lien avec le contexte clinique**, les scores de risque classiques et, lorsque nécessaire, d’autres examens d’imagerie fonctionnelle ou anatomique.

@@ -9,6 +9,13 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: score_calcique_coronarien.qmd
+        text: score calcique
+      - href: coroscanner.qmd
+        text: coroscanner
+      - href: tavi/tavi_scanner.qmd
+        text: Tavi
+      
   sidebar:
     style: "docked"
     search: true
@@ -19,10 +26,11 @@ website:
         contents:
           - introduction.qmd
           - about.qmd
-      - section: "TAVI"
+      - section: "Scanner"
         contents:
+          - score_calcique_coronarien.qmd
+          - coroscanner.qmd
           - tavi/tavi_scanner.qmd
-          - cas.qmd
           
 format:
   html:

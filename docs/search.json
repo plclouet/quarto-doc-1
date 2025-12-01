@@ -2,38 +2,256 @@
   {
     "objectID": "tavi/tavi_scanner.html",
     "href": "tavi/tavi_scanner.html",
-    "title": "scanner",
+    "title": "TAVI",
     "section": "",
-    "text": "faire une acquisition de score calcique mais avec calcul du score calcique valvulaire aortique Le but est de savoir si la sténose est serrée:\n\n1600-2000 chez l’homme,\n1300-1600 chez la femme\n\nNécessité de disposer d’un scanner avec synchronisation à l’ECG (gating)\n\n\n\nAcquisition cervico-thoraco-abdomino-pelvienne synchronisée à l’ECG après injection de produit de contraste iodé centrée sur le coeur\n\n\n\n\nimage 1",
+    "text": "faire une acquisition de score calcique mais avec calcul du score calcique valvulaire aortique Le but est de savoir si la sténose est serrée:\n\n1600-2000 chez l’homme,\n1300-1600 chez la femme\n\nNécessité de disposer d’un scanner avec synchronisation à l’ECG (gating)\n\n\n\nAcquisition cardiaque synchronisée à l’ECG après injection de produit de contraste iodé centrée sur le coeur puis une acquisition non synchronisée à l’ECG sur la région cervico-thoraco-abdomino-pelvienne.\n\n\n\nliste:\n\nla surface de l’anneau,\nses diamètres\n\n\n\n\nimage 1",
     "crumbs": [
       "Home",
-      "TAVI",
-      "scanner"
+      "Scanner",
+      "TAVI"
     ]
   },
   {
     "objectID": "tavi/tavi_scanner.html#score-calcique-valvulaire-aortique",
     "href": "tavi/tavi_scanner.html#score-calcique-valvulaire-aortique",
-    "title": "scanner",
+    "title": "TAVI",
     "section": "",
     "text": "faire une acquisition de score calcique mais avec calcul du score calcique valvulaire aortique Le but est de savoir si la sténose est serrée:\n\n1600-2000 chez l’homme,\n1300-1600 chez la femme\n\nNécessité de disposer d’un scanner avec synchronisation à l’ECG (gating)",
     "crumbs": [
       "Home",
-      "TAVI",
-      "scanner"
+      "Scanner",
+      "TAVI"
     ]
   },
   {
     "objectID": "tavi/tavi_scanner.html#acquisition-injectée",
     "href": "tavi/tavi_scanner.html#acquisition-injectée",
-    "title": "scanner",
+    "title": "TAVI",
     "section": "",
-    "text": "Acquisition cervico-thoraco-abdomino-pelvienne synchronisée à l’ECG après injection de produit de contraste iodé centrée sur le coeur\n\n\n\n\nimage 1",
+    "text": "Acquisition cardiaque synchronisée à l’ECG après injection de produit de contraste iodé centrée sur le coeur puis une acquisition non synchronisée à l’ECG sur la région cervico-thoraco-abdomino-pelvienne.",
     "crumbs": [
       "Home",
-      "TAVI",
-      "scanner"
+      "Scanner",
+      "TAVI"
     ]
+  },
+  {
+    "objectID": "tavi/tavi_scanner.html#éléments-indispensables",
+    "href": "tavi/tavi_scanner.html#éléments-indispensables",
+    "title": "TAVI",
+    "section": "",
+    "text": "liste:\n\nla surface de l’anneau,\nses diamètres\n\n\n\n\nimage 1",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "TAVI"
+    ]
+  },
+  {
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "sujets abordés\n\nLe score calcique coronarien\nle coroscanner\nle bilan avant implantation d’une prothèse pour rétrécissement aortique (TAVI)",
+    "crumbs": [
+      "Home",
+      "About",
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "coroscanner.html",
+    "href": "coroscanner.html",
+    "title": "Coroscanner",
+    "section": "",
+    "text": "Vue 3D du coeur\n\n\n\n\nLe coroscanner, ou angioscanner coronarien (Coronary CT Angiography — CCTA), est un examen d’imagerie non invasif qui permet de visualiser avec une très haute résolution les artères coronaires grâce à un scanner injecté synchronisé à l’ECG.\nIl s’agit aujourd’hui de l’un des examens majeurs pour évaluer :\n\nla présence de sténoses coronaires,\n\nle type et la composition des plaques athéromateuses,\n\nles anomalies de naissance ou de trajet des artères coronaires,\n\nles pontages et certains stents (selon leur calibre et la qualité des images).\n\n\n\n\nLe coroscanner repose sur :\n\nl’utilisation d’un scanner multibarrette (64 coupes ou plus, parfois double source),\n\nune injection de produit de contraste iodé pour opacifier la lumière des artères,\n\nune synchronisation à l’ECG (acquisition prospective ou rétrospective),\n\ndes techniques de réduction de dose (basse tension, reconstruction itérative).\n\nL’objectif est d’obtenir des images relativement « figées » du cœur, idéalement en diastole, lorsque les artères coronaires bougent le moins.\n\n\n\n\nPréparation et entretien pré-examen\nRecueil des antécédents (allergies, insuffisance rénale, maladies cardiaques, traitements en cours) et évaluation du rythme cardiaque.\nPréparation médicamenteuse (si nécessaire)\n\nBêtabloquants pour ralentir la fréquence cardiaque (objectif souvent &lt; 60 bpm).\n\nDérivés nitrés pour favoriser la vasodilatation coronarienne (variable selon les protocoles).\n\nInstallation et repérage\nLe patient est allongé en décubitus dorsal sur la table, avec une voie veineuse périphérique de bon calibre (souvent bras droit). Des repérages non injectés sont réalisés.\nAcquisition synchronisée à l’ECG\nL’acquisition principale est effectuée pendant une apnée courte (quelques secondes). Le scanner enregistre les données en tenant compte du cycle cardiaque, ce qui permet une reconstruction centrée sur la phase la plus stable.\nInjection de produit de contraste iodé\nL’injection se fait à l’aide d’un injecteur automatique, avec un débit élevé, et un suivi de bolus (bolus tracking) permet de déclencher l’acquisition au moment optimal.\nReconstruction des images\nLes images sont reconstruites dans différents plans :\n\nMPR (reconstructions multiplanaires),\n\nMIP (Maximum Intensity Projection),\n\nVR (Volume Rendering 3D).\n\n\n\n\n\nLes principales indications du coroscanner sont :\n\nSuspicion de maladie coronarienne stable chez un patient avec un risque cardiovasculaire faible ou intermédiaire.\n\nÉvaluation de douleurs thoraciques atypiques lorsque la probabilité de maladie coronarienne significative n’est pas élevée.\n\nExploration de malformations coronaires congénitales (origine anormale, trajet interartériel, etc.).\n\nBilan préopératoire (par exemple avant une chirurgie valvulaire type TAVI, certaines chirurgies cardiaques ou vasculaires).\n\nContrôle des pontages aorto-coronariens (perméabilité des greffons).\n\nÉvaluation de stents coronaires de calibre suffisant (souvent ≥ 3 mm, selon le scanner et les conditions).\n\n\n\n\n\n\n\nAllergie sévère documentée aux produits de contraste iodés.\n\nInsuffisance rénale sévère (clairance de la créatinine très diminuée), sauf stratégie spécifique discutée.\n\nTroubles du rythme importants (fibrillation auriculaire rapide, extrasystoles fréquentes) rendant la synchronisation difficile.\n\nTachycardie non contrôlable malgré les bêtabloquants.\n\nIncapacité à maintenir une apnée correcte (dyspnée sévère, anxiété majeure).\n\n\n\n\n\nVérifier la fonction rénale avant l’injection (créatininémie, DFG estimé).\n\nAdapter ou interrompre transitoirement certains traitements (ex. metformine) selon les recommandations locales.\n\nSurveillance accrue chez les patients à risque de réaction allergique (pré-médication éventuelle).\n\n\n\n\n\nLe coroscanner permet une analyse très détaillée des coronaires :\n\n\n\nOrigine des artères coronaires (gauche, droite, anomalies d’émergence).\n\nTrajets des segments proximaux, moyens et distaux.\n\nDominance coronaire (droite, gauche ou équilibrée).\n\nPrésence d’anomalies de trajet (intramyocardique, interartériel, etc.).\n\n\n\n\n\n\n\nsténose coronarienne\n\n\nLe coroscanner permet d’identifier et de caractériser les plaques athéromateuses :\n\nPlaques calcifiées,\n\nPlaques non calcifiées,\n\nPlaques mixtes.\n\nCertaines caractéristiques sont associées à une vulnérabilité accrue :\n\nfaible densité,\n\nremodelage positif,\n\ncalcifications ponctuées (spotty calcifications),\n\naspect en « napkin-ring sign ».\n\n\n\n\nLe coroscanner évalue :\n\nle taux de rétrécissement luminal (en %),\n\nla localisation des sténoses,\n\nle nombre de vaisseaux atteints (mono, bi ou tritronculaire),\n\nl’aspect de la plaque responsable (molle, calcifiée, mixte).\n\n\n\n\n\nAnalyse de la perméabilité des pontages (saphènes, artériels).\n\nÉvaluation des stents de calibre suffisant (limites pour les stents de petit diamètre ou très calcifiés).\n\n\n\n\n\nLes performances du coroscanner ont été largement étudiées et montrent :\n\nune sensibilité très élevée (souvent &gt; 90 %) pour la détection des sténoses coronaires significatives,\n\nune spécificité variable (souvent 70–90 %, réduite en cas de calcifications massives),\n\nsurtout une valeur prédictive négative (VPN) excellente, pouvant atteindre 95–99 % dans certaines cohortes.\n\nEn pratique, un coroscanner de bonne qualité normal (sans sténose significative) permet d’écarter avec une grande confiance une maladie coronarienne obstructive.\n\n\n\nMalgré ses qualités, le coroscanner présente certaines limites :\n\nCalcifications massives : les artefacts de blooming peuvent gêner la visualisation de la lumière et réduire la spécificité.\n\nTroubles du rythme : fibrillation auriculaire, extrasystoles nombreuses peuvent entraîner des artefacts de mouvement.\n\nObésité importante : augmentation du bruit d’image, parfois besoin d’augmenter la dose.\n\nStents de petit diamètre : difficile d’analyser la lumière interne.\n\nNécessité d’une coopération du patient (apnée correcte).\n\n\n\n\n\n\n\n\n\n\n\n\n\nExamen\nType d’information\nPoints forts\nPrincipales limites\n\n\n\n\nCoroscanner (CCTA)\nAnatomique\nVPN très élevée, non invasif, analyse des plaques\nIrradiant, produit iodé, spécificité réduite si calcium\n\n\nÉpreuve d’effort ECG\nFonctionnelle\nSimple, peu coûteuse\nSensibilité/spécificité limitées\n\n\nÉchocardiographie de stress\nFonctionnelle\nNon irradiant, bonne évaluation du myocarde\nOpérateur-dépendant, fenêtre acoustique parfois limitée\n\n\nScintigraphie myocardique\nFonctionnelle\nBonne sensibilité pour ischémie\nIrradiant, disponibilité variable\n\n\nIRM cardiaque de stress\nFonctionnelle + tissulaire\nExcellente résolution tissulaire, non irradiant\nPlus longue, contre-indications IRM possibles\n\n\nCoronarographie invasive\nAnatomique + thérapeutique\nGold standard, possibilité d’angioplastie\nInvasive, risques de complications, hospitalisation\n\n\n\n\n\n\nGrâce aux progrès techniques (acquisitions prospectives, basse tension, reconstruction itérative), la dose d’irradiation d’un coroscanner moderne peut être réduite à :\n\n≈ 1 à 4 mSv, selon les protocoles et le matériel.\n\nCela reste généralement inférieur ou comparable à certains autres examens d’imagerie thoracique ou cardiologique.\nLa sécurité du produit de contraste repose sur :\n\nla vérification de la fonction rénale,\n\nl’identification des antécédents d’allergie ou d’intolérance,\n\nl’hydratation adaptée et la prévention des complications.\n\n\n\n\n\n\n\nConclusion : artères coronaires sans sténose significative.\nCalcium coronaire absent ou minime.\nAucune anomalie de naissance ou de trajet.\nAspect rassurant, pas d’argument en faveur d’une maladie coronarienne obstructive.\n\n\n\n\n\nConclusion : plaque mixte au niveau du segment moyen de l’IVA, responsable d’un rétrécissement estimé à 50 %.\nAutres segments sans sténose significative.\nDiscussion d’un examen fonctionnel complémentaire (échocardiographie de stress, scintigraphie, IRM de stress) selon le contexte clinique.\n\n\n\n\n\nConclusion : sténose serrée (&gt; 70 %) de l’IVA proximale liée à une plaque non calcifiée.\nRecommandation de coronarographie invasive en vue d’une éventuelle revascularisation.\n\n\n\n\n\nLe coroscanner occupe une place centrale dans la stratégie diagnostique de la maladie coronarienne :\n\noutil de choix pour exclure une maladie coronarienne significative chez des patients sélectionnés ;\n\ncomplément utile aux tests fonctionnels, notamment lorsque ceux-ci sont non concluants ;\n\naide à la stratification du risque et à la planification d’éventuelles stratégies de revascularisation.\n\n\n\n\nLe coroscanner est devenu un pilier de l’imagerie cardiovasculaire moderne. Il combine :\n\nune excellente valeur prédictive négative,\n\nune visualisation fine de l’anatomie coronarienne et des plaques,\n\nun caractère non invasif,\n\nune irradiation maîtrisée grâce aux techniques récentes.\n\nSon utilisation doit être intégrée dans une approche globale, en tenant compte du profil de risque du patient, de la probabilité pré-test et des autres examens disponibles, afin d’optimiser la prise en charge de la maladie coronarienne.",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Coroscanner"
+    ]
+  },
+  {
+    "objectID": "coroscanner.html#introduction",
+    "href": "coroscanner.html#introduction",
+    "title": "Coroscanner",
+    "section": "",
+    "text": "Le coroscanner, ou angioscanner coronarien (Coronary CT Angiography — CCTA), est un examen d’imagerie non invasif qui permet de visualiser avec une très haute résolution les artères coronaires grâce à un scanner injecté synchronisé à l’ECG.\nIl s’agit aujourd’hui de l’un des examens majeurs pour évaluer :\n\nla présence de sténoses coronaires,\n\nle type et la composition des plaques athéromateuses,\n\nles anomalies de naissance ou de trajet des artères coronaires,\n\nles pontages et certains stents (selon leur calibre et la qualité des images).",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Coroscanner"
+    ]
+  },
+  {
+    "objectID": "coroscanner.html#principes-de-lexamen",
+    "href": "coroscanner.html#principes-de-lexamen",
+    "title": "Coroscanner",
+    "section": "",
+    "text": "Le coroscanner repose sur :\n\nl’utilisation d’un scanner multibarrette (64 coupes ou plus, parfois double source),\n\nune injection de produit de contraste iodé pour opacifier la lumière des artères,\n\nune synchronisation à l’ECG (acquisition prospective ou rétrospective),\n\ndes techniques de réduction de dose (basse tension, reconstruction itérative).\n\nL’objectif est d’obtenir des images relativement « figées » du cœur, idéalement en diastole, lorsque les artères coronaires bougent le moins.",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Coroscanner"
+    ]
+  },
+  {
+    "objectID": "coroscanner.html#déroulement-de-lexamen",
+    "href": "coroscanner.html#déroulement-de-lexamen",
+    "title": "Coroscanner",
+    "section": "",
+    "text": "Préparation et entretien pré-examen\nRecueil des antécédents (allergies, insuffisance rénale, maladies cardiaques, traitements en cours) et évaluation du rythme cardiaque.\nPréparation médicamenteuse (si nécessaire)\n\nBêtabloquants pour ralentir la fréquence cardiaque (objectif souvent &lt; 60 bpm).\n\nDérivés nitrés pour favoriser la vasodilatation coronarienne (variable selon les protocoles).\n\nInstallation et repérage\nLe patient est allongé en décubitus dorsal sur la table, avec une voie veineuse périphérique de bon calibre (souvent bras droit). Des repérages non injectés sont réalisés.\nAcquisition synchronisée à l’ECG\nL’acquisition principale est effectuée pendant une apnée courte (quelques secondes). Le scanner enregistre les données en tenant compte du cycle cardiaque, ce qui permet une reconstruction centrée sur la phase la plus stable.\nInjection de produit de contraste iodé\nL’injection se fait à l’aide d’un injecteur automatique, avec un débit élevé, et un suivi de bolus (bolus tracking) permet de déclencher l’acquisition au moment optimal.\nReconstruction des images\nLes images sont reconstruites dans différents plans :\n\nMPR (reconstructions multiplanaires),\n\nMIP (Maximum Intensity Projection),\n\nVR (Volume Rendering 3D).",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Coroscanner"
+    ]
+  },
+  {
+    "objectID": "coroscanner.html#indications-principales",
+    "href": "coroscanner.html#indications-principales",
+    "title": "Coroscanner",
+    "section": "",
+    "text": "Les principales indications du coroscanner sont :\n\nSuspicion de maladie coronarienne stable chez un patient avec un risque cardiovasculaire faible ou intermédiaire.\n\nÉvaluation de douleurs thoraciques atypiques lorsque la probabilité de maladie coronarienne significative n’est pas élevée.\n\nExploration de malformations coronaires congénitales (origine anormale, trajet interartériel, etc.).\n\nBilan préopératoire (par exemple avant une chirurgie valvulaire type TAVI, certaines chirurgies cardiaques ou vasculaires).\n\nContrôle des pontages aorto-coronariens (perméabilité des greffons).\n\nÉvaluation de stents coronaires de calibre suffisant (souvent ≥ 3 mm, selon le scanner et les conditions).",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Coroscanner"
+    ]
+  },
+  {
+    "objectID": "coroscanner.html#contre-indications-et-précautions",
+    "href": "coroscanner.html#contre-indications-et-précautions",
+    "title": "Coroscanner",
+    "section": "",
+    "text": "Allergie sévère documentée aux produits de contraste iodés.\n\nInsuffisance rénale sévère (clairance de la créatinine très diminuée), sauf stratégie spécifique discutée.\n\nTroubles du rythme importants (fibrillation auriculaire rapide, extrasystoles fréquentes) rendant la synchronisation difficile.\n\nTachycardie non contrôlable malgré les bêtabloquants.\n\nIncapacité à maintenir une apnée correcte (dyspnée sévère, anxiété majeure).\n\n\n\n\n\nVérifier la fonction rénale avant l’injection (créatininémie, DFG estimé).\n\nAdapter ou interrompre transitoirement certains traitements (ex. metformine) selon les recommandations locales.\n\nSurveillance accrue chez les patients à risque de réaction allergique (pré-médication éventuelle).",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Coroscanner"
+    ]
+  },
+  {
+    "objectID": "coroscanner.html#informations-fournies-par-le-coroscanner",
+    "href": "coroscanner.html#informations-fournies-par-le-coroscanner",
+    "title": "Coroscanner",
+    "section": "",
+    "text": "Le coroscanner permet une analyse très détaillée des coronaires :\n\n\n\nOrigine des artères coronaires (gauche, droite, anomalies d’émergence).\n\nTrajets des segments proximaux, moyens et distaux.\n\nDominance coronaire (droite, gauche ou équilibrée).\n\nPrésence d’anomalies de trajet (intramyocardique, interartériel, etc.).\n\n\n\n\n\n\n\nsténose coronarienne\n\n\nLe coroscanner permet d’identifier et de caractériser les plaques athéromateuses :\n\nPlaques calcifiées,\n\nPlaques non calcifiées,\n\nPlaques mixtes.\n\nCertaines caractéristiques sont associées à une vulnérabilité accrue :\n\nfaible densité,\n\nremodelage positif,\n\ncalcifications ponctuées (spotty calcifications),\n\naspect en « napkin-ring sign ».\n\n\n\n\nLe coroscanner évalue :\n\nle taux de rétrécissement luminal (en %),\n\nla localisation des sténoses,\n\nle nombre de vaisseaux atteints (mono, bi ou tritronculaire),\n\nl’aspect de la plaque responsable (molle, calcifiée, mixte).\n\n\n\n\n\nAnalyse de la perméabilité des pontages (saphènes, artériels).\n\nÉvaluation des stents de calibre suffisant (limites pour les stents de petit diamètre ou très calcifiés).",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Coroscanner"
+    ]
+  },
+  {
+    "objectID": "coroscanner.html#performance-diagnostique",
+    "href": "coroscanner.html#performance-diagnostique",
+    "title": "Coroscanner",
+    "section": "",
+    "text": "Les performances du coroscanner ont été largement étudiées et montrent :\n\nune sensibilité très élevée (souvent &gt; 90 %) pour la détection des sténoses coronaires significatives,\n\nune spécificité variable (souvent 70–90 %, réduite en cas de calcifications massives),\n\nsurtout une valeur prédictive négative (VPN) excellente, pouvant atteindre 95–99 % dans certaines cohortes.\n\nEn pratique, un coroscanner de bonne qualité normal (sans sténose significative) permet d’écarter avec une grande confiance une maladie coronarienne obstructive.",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Coroscanner"
+    ]
+  },
+  {
+    "objectID": "coroscanner.html#limites-de-lexamen",
+    "href": "coroscanner.html#limites-de-lexamen",
+    "title": "Coroscanner",
+    "section": "",
+    "text": "Malgré ses qualités, le coroscanner présente certaines limites :\n\nCalcifications massives : les artefacts de blooming peuvent gêner la visualisation de la lumière et réduire la spécificité.\n\nTroubles du rythme : fibrillation auriculaire, extrasystoles nombreuses peuvent entraîner des artefacts de mouvement.\n\nObésité importante : augmentation du bruit d’image, parfois besoin d’augmenter la dose.\n\nStents de petit diamètre : difficile d’analyser la lumière interne.\n\nNécessité d’une coopération du patient (apnée correcte).",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Coroscanner"
+    ]
+  },
+  {
+    "objectID": "coroscanner.html#comparaison-avec-les-autres-examens-coronaires",
+    "href": "coroscanner.html#comparaison-avec-les-autres-examens-coronaires",
+    "title": "Coroscanner",
+    "section": "",
+    "text": "Examen\nType d’information\nPoints forts\nPrincipales limites\n\n\n\n\nCoroscanner (CCTA)\nAnatomique\nVPN très élevée, non invasif, analyse des plaques\nIrradiant, produit iodé, spécificité réduite si calcium\n\n\nÉpreuve d’effort ECG\nFonctionnelle\nSimple, peu coûteuse\nSensibilité/spécificité limitées\n\n\nÉchocardiographie de stress\nFonctionnelle\nNon irradiant, bonne évaluation du myocarde\nOpérateur-dépendant, fenêtre acoustique parfois limitée\n\n\nScintigraphie myocardique\nFonctionnelle\nBonne sensibilité pour ischémie\nIrradiant, disponibilité variable\n\n\nIRM cardiaque de stress\nFonctionnelle + tissulaire\nExcellente résolution tissulaire, non irradiant\nPlus longue, contre-indications IRM possibles\n\n\nCoronarographie invasive\nAnatomique + thérapeutique\nGold standard, possibilité d’angioplastie\nInvasive, risques de complications, hospitalisation",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Coroscanner"
+    ]
+  },
+  {
+    "objectID": "coroscanner.html#dose-dirradiation-et-sécurité",
+    "href": "coroscanner.html#dose-dirradiation-et-sécurité",
+    "title": "Coroscanner",
+    "section": "",
+    "text": "Grâce aux progrès techniques (acquisitions prospectives, basse tension, reconstruction itérative), la dose d’irradiation d’un coroscanner moderne peut être réduite à :\n\n≈ 1 à 4 mSv, selon les protocoles et le matériel.\n\nCela reste généralement inférieur ou comparable à certains autres examens d’imagerie thoracique ou cardiologique.\nLa sécurité du produit de contraste repose sur :\n\nla vérification de la fonction rénale,\n\nl’identification des antécédents d’allergie ou d’intolérance,\n\nl’hydratation adaptée et la prévention des complications.",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Coroscanner"
+    ]
+  },
+  {
+    "objectID": "coroscanner.html#exemples-de-compte-rendu-simplifié",
+    "href": "coroscanner.html#exemples-de-compte-rendu-simplifié",
+    "title": "Coroscanner",
+    "section": "",
+    "text": "Conclusion : artères coronaires sans sténose significative.\nCalcium coronaire absent ou minime.\nAucune anomalie de naissance ou de trajet.\nAspect rassurant, pas d’argument en faveur d’une maladie coronarienne obstructive.\n\n\n\n\n\nConclusion : plaque mixte au niveau du segment moyen de l’IVA, responsable d’un rétrécissement estimé à 50 %.\nAutres segments sans sténose significative.\nDiscussion d’un examen fonctionnel complémentaire (échocardiographie de stress, scintigraphie, IRM de stress) selon le contexte clinique.\n\n\n\n\n\nConclusion : sténose serrée (&gt; 70 %) de l’IVA proximale liée à une plaque non calcifiée.\nRecommandation de coronarographie invasive en vue d’une éventuelle revascularisation.",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Coroscanner"
+    ]
+  },
+  {
+    "objectID": "coroscanner.html#place-du-coroscanner-dans-la-prise-en-charge-globale",
+    "href": "coroscanner.html#place-du-coroscanner-dans-la-prise-en-charge-globale",
+    "title": "Coroscanner",
+    "section": "",
+    "text": "Le coroscanner occupe une place centrale dans la stratégie diagnostique de la maladie coronarienne :\n\noutil de choix pour exclure une maladie coronarienne significative chez des patients sélectionnés ;\n\ncomplément utile aux tests fonctionnels, notamment lorsque ceux-ci sont non concluants ;\n\naide à la stratification du risque et à la planification d’éventuelles stratégies de revascularisation.",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Coroscanner"
+    ]
+  },
+  {
+    "objectID": "coroscanner.html#conclusion",
+    "href": "coroscanner.html#conclusion",
+    "title": "Coroscanner",
+    "section": "",
+    "text": "Le coroscanner est devenu un pilier de l’imagerie cardiovasculaire moderne. Il combine :\n\nune excellente valeur prédictive négative,\n\nune visualisation fine de l’anatomie coronarienne et des plaques,\n\nun caractère non invasif,\n\nune irradiation maîtrisée grâce aux techniques récentes.\n\nSon utilisation doit être intégrée dans une approche globale, en tenant compte du profil de risque du patient, de la probabilité pré-test et des autres examens disponibles, afin d’optimiser la prise en charge de la maladie coronarienne.",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Coroscanner"
+    ]
+  },
+  {
+    "objectID": "basics.html",
+    "href": "basics.html",
+    "title": "Basics",
+    "section": "",
+    "text": "Les bases"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Contre-indications",
+    "section": "",
+    "text": "Contre-indications aux béta-bloquants\n\nBAV de haut degré non appareillé\nasthme, bronchite chronique obstructive (+)\nsyndrome de Raynaud\nbradycardie &lt; 45/min\ninsuffisance cardiaque non contrôlée (+)\nchoc cardiogénique\nspasme coronaire\ndiabète (pour ne pas masquer les signes d’hypoglycémie)\n\n\n\ncontre-indications aux dérivés nitrés\n\nHypersensibilité aux dérivés nitrés\nHypertrophie cardiaque\nHypotension artérielle\nÉtat de choc\nSténose aortique sévère =&gt; TAVI (++)\nHypertension intracrânienne",
+    "crumbs": [
+      "Home",
+      "About",
+      "Contre-indications"
+    ]
+  },
+  {
+    "objectID": "cas.html",
+    "href": "cas.html",
+    "title": "cas cliniques",
+    "section": "",
+    "text": "Présentation du cas\nPatiente de 63 ans, découverte fortuite d’un nodule pulmonaire au scanner thoracique…\n\n\n\n\n\nimage 1\n\n\n\n\n\nimage 2\n\n\n\n\n\nimage 3\n\n\n\n\n\n\nCommentaires\nLes reconstructions coronales permettent une meilleure appréciation de la taille réelle du nodule.\nLa courbe d’évolution montre une stabilité sur 12 mois.\n\n\n\nun autre paragraphe\nLes reconstructions coronales permettent une meilleure appréciation de la taille réelle du nodule.\nLa courbe d’évolution montre une stabilité sur 12 mois."
   },
   {
     "objectID": "index.html",
@@ -47,46 +265,135 @@
     ]
   },
   {
-    "objectID": "basics.html",
-    "href": "basics.html",
-    "title": "Basics",
+    "objectID": "score_calcique_coronarien.html",
+    "href": "score_calcique_coronarien.html",
+    "title": "Score calcique coronarien",
     "section": "",
-    "text": "Les bases"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Qui suis-je ?",
+    "text": "Le score calcique coronarien — souvent appelé score de calcium ou Agatston score — est un outil d’imagerie non invasif permettant de quantifier la charge de calcifications présentes dans les artères coronaires à partir d’un scanner cardiaque sans injection.\nIl constitue aujourd’hui un marqueur majeur du risque d’événements coronariens (syndrome coronarien aigu, infarctus du myocarde, revascularisation, décès cardiovasculaire).\n\n\n\nLe score calcique est obtenu grâce à un scanner cardiaque à faible dose de rayons X, le plus souvent synchronisé à l’ECG, afin de repérer et de quantifier les dépôts de calcium dans les parois des artères coronaires.\nLe calcium coronaire témoigne d’une athérosclérose déjà constituée : plus il y a de calcium, plus le patient a accumulé des lésions athéromateuses au cours du temps. Il s’agit donc d’un marqueur de charge athéromateuse globale, et non uniquement d’un reflet de sténoses significatives.\n\n\n\n\nExamen réalisé sur un scanner multibarrette.\nAcquisition centrée sur le cœur, généralement en apnée courte.\nSynchronisation à l’ECG (souvent en télésystole ou télédiastole selon les protocoles).\nAucune injection de produit de contraste iodé.\nIrradiation faible (ordre de grandeur : ≈ 1 mSv, variable selon les appareils et protocoles).\n\nLes images obtenues permettent de détecter les zones de forte densité calcique dans les artères coronaires, qui sont ensuite quantifiées par un logiciel dédié.\n\n\n\nscore calcique\n\n\n\n\n\nLe score calcique le plus utilisé est le score d’Agatston. Il se calcule en plusieurs étapes :\n\nSeuil de densité\nLes voxels dont la densité est ≥ 130 unités Hounsfield (UH) sont considérés comme potentiellement calcifiés.\nDéfinition des lésions\nUne lésion calcique est définie comme un ensemble contigu de voxels calcifiés avec une surface minimale (par exemple ≥ 1 mm², selon les logiciels).\nCalcul de la surface\nPour chaque lésion, on mesure la surface en mm² sur les coupes scanographiques.\nPondération par la densité\nÀ chaque lésion, on associe un facteur de pondération basé sur la densité maximale :\n\n130–199 UH : facteur 1\n200–299 UH : facteur 2\n300–399 UH : facteur 3\n≥ 400 UH : facteur 4\n\nScore d’Agatston lésionnel\nPour chaque lésion :\nScore lésionnel = surface (mm²) × facteur de densité.\nScore total\nLe score total d’Agatston est la somme des scores de toutes les lésions calciques des principales artères coronaires :\n\ntronc commun (TC),\nartère interventriculaire antérieure (IVA),\nartère circonflexe (CX),\nartère coronaire droite (CD).\n\n\nCertains logiciels fournissent également : - un score par artère, - un volume calcique, - une masse calcique (moins dépendante des paramètres d’acquisition).\n\n\n\n\n\nUne classification couramment utilisée est :\n\n\n\n\n\n\n\n\nScore Agatston total\nInterprétation\nRisque approximatif\n\n\n\n\n0\nAucun calcium détectable\nTrès faible\n\n\n1–10\nCalcifications minimes\nFaible\n\n\n11–100\nCalcifications modérées\nFaible à intermédiaire\n\n\n101–400\nCalcifications significatives\nIntermédiaire à élevé\n\n\n&gt; 400\nCalcifications sévères\nÉlevé\n\n\n\n\n\n\nAu-delà de la valeur absolue du score, il est souvent utile de le rapporter à l’âge et au sexe du patient via des courbes de percentiles (ex. tables MESA).\n\nUn score qui se situe au-dessus du 75e percentile pour l’âge et le sexe correspond à un risque plus élevé que celui de la population de référence.\nUn score de 0, quel que soit l’âge, est généralement rassurant et associé à un très bon pronostic à moyen terme.\n\n\n\n\n\nLe score calcique est surtout utile chez les patients asymptomatiques ou peu symptomatiques, pour affiner la stratification du risque cardiovasculaire.\n\n\n\nSujet de 40 à 75 ans, sans antécédent cardiovasculaire, avec un risque cardiovasculaire global intermédiaire selon les scores cliniques (SCORE2, PCE, etc.).\nPatient avec facteurs de risque modérés (antécédents familiaux de maladie coronaire précoce, dyslipidémie, tabagisme, HTA) pour aider à décider de l’introduction d’un traitement par statine.\nPatient réticent à débuter un traitement de prévention primaire : un score calcique élevé peut faciliter la discussion thérapeutique.\n\n\n\n\n\nPatient déjà à très haut risque (antécédent d’infarctus, de revascularisation, diabète compliqué, etc.) : le score n’apporte en général pas d’information susceptible de modifier la prise en charge.\nSuspicion de syndrome coronarien aigu : il ne s’agit pas d’un examen d’urgence et il ne permet pas d’évaluer une sténose en temps réel.\nPatient très âgé : la prévalence du calcium est très élevée et la plus-value clinique peut être limitée.\n\n\n\n\n\n\n\n\nExamen rapide (quelques minutes), indolore, non invasif.\nAbsence d’injection de produit de contraste.\nFaible irradiation par rapport à d’autres explorations.\nExcellente valeur prédictive négative : un score = 0 est associé à un risque très faible d’événement coronaire à 5–10 ans chez les patients asymptomatiques.\nPermet :\n\nd’affiner la stratification du risque,\nd’aider à la décision thérapeutique (statine, aspirine dans certains cas),\nde renforcer la motivation du patient aux mesures hygiéno-diététiques en visualisant les calcifications.\n\n\n\n\n\n\nNe détecte pas les plaques non calcifiées, qui peuvent pourtant être vulnérables et responsables de syndromes coronariens aigus.\nNe donne pas la sévérité des sténoses en termes de réduction de calibre (à la différence de l’angio-TDM coronarienne).\nRésultats dépendants de la qualité de l’acquisition (rythme cardiaque, mouvements, artefacts).\nInterprétation qui doit toujours être replacée dans le contexte clinique global.\n\n\n\n\n\n\n\nHomme de 55 ans, dyslipidémique, léger surpoids, non fumeur, sans symptôme : - Score calcique = 0. - Risque d’événement coronaire à 10 ans très faible. - On peut discuter d’une simple prévention hygiéno-diététique et éventuellement de différer la statine selon les recommandations et le profil global.\n\n\n\nFemme de 60 ans, HTA bien contrôlée, antécédents familiaux de maladie coronaire : - Score calcique = 150, principalement sur l’IVA. - Athérosclérose déjà constituée. - Justifie en général : - introduction ou intensification d’un traitement par statine, - prise en charge active des facteurs de risque, - discussion (selon le contexte) d’aspirine à faible dose si le rapport bénéfice/risque est favorable.\n\n\n\nHomme de 65 ans, fumeur actif, diabétique : - Score calcique = 600. - Maladie athéromateuse coronarienne sévère. - Risque élevé d’événement coronarien. - Conduite : - prévention agressive (statine forte intensité, arrêt du tabac, contrôle strict de la pression artérielle et du diabète), - discussion d’examens complémentaires (ex. épreuve d’effort, écho de stress, voire angio-TDM coronarienne selon le contexte clinique).\n\n\n\n\n\nIntégration du score calcique dans des scores composites de risque (ex. MESA, CAC-DRS).\nDéveloppement d’outils d’intelligence artificielle pour :\n\nla détection automatique des calcifications,\nl’estimation opportuniste du score sur des scanners thoraciques réalisés pour d’autres indications.\n\nUtilisation croissante du score calcique dans les recommandations internationales pour la prévention primaire de la maladie coronarienne.\n\n\n\n\nLe score calcique coronarien est un outil simple, rapide et robuste pour évaluer la charge athéromateuse coronaire et affiner la stratification du risque cardiovasculaire, en particulier en prévention primaire chez les patients à risque intermédiaire.\n\nUn score = 0 est généralement très rassurant.\nUn score élevé doit conduire à renforcer la prévention, en particulier le traitement hypolipémiant et la correction des facteurs de risque.\n\nSon interprétation doit toujours être réalisée en lien avec le contexte clinique, les scores de risque classiques et, lorsque nécessaire, d’autres examens d’imagerie fonctionnelle ou anatomique.",
     "crumbs": [
       "Home",
-      "About",
-      "About"
+      "Scanner",
+      "Score calcique coronarien"
     ]
   },
   {
-    "objectID": "cas.html",
-    "href": "cas.html",
-    "title": "cas cliniques",
+    "objectID": "score_calcique_coronarien.html#introduction",
+    "href": "score_calcique_coronarien.html#introduction",
+    "title": "Score calcique coronarien",
     "section": "",
-    "text": "Présentation du cas\nPatiente de 63 ans, découverte fortuite d’un nodule pulmonaire au scanner thoracique…\n\n\n\n\n\nimage 1\n\n\n\n\n\nimage 2\n\n\n\n\n\nimage 3\n\n\n\n\n\n\nCommentaires\nLes reconstructions coronales permettent une meilleure appréciation de la taille réelle du nodule.\nLa courbe d’évolution montre une stabilité sur 12 mois.\n\n\n\nun autre paragraphe\nLes reconstructions coronales permettent une meilleure appréciation de la taille réelle du nodule.\nLa courbe d’évolution montre une stabilité sur 12 mois.",
+    "text": "Le score calcique coronarien — souvent appelé score de calcium ou Agatston score — est un outil d’imagerie non invasif permettant de quantifier la charge de calcifications présentes dans les artères coronaires à partir d’un scanner cardiaque sans injection.\nIl constitue aujourd’hui un marqueur majeur du risque d’événements coronariens (syndrome coronarien aigu, infarctus du myocarde, revascularisation, décès cardiovasculaire).",
     "crumbs": [
       "Home",
-      "TAVI",
-      "cas cliniques"
+      "Scanner",
+      "Score calcique coronarien"
     ]
   },
   {
-    "objectID": "introduction.html",
-    "href": "introduction.html",
-    "title": "Introduction",
+    "objectID": "score_calcique_coronarien.html#quest-ce-que-le-score-calcique",
+    "href": "score_calcique_coronarien.html#quest-ce-que-le-score-calcique",
+    "title": "Score calcique coronarien",
     "section": "",
-    "text": "c’est une introduction au site",
+    "text": "Le score calcique est obtenu grâce à un scanner cardiaque à faible dose de rayons X, le plus souvent synchronisé à l’ECG, afin de repérer et de quantifier les dépôts de calcium dans les parois des artères coronaires.\nLe calcium coronaire témoigne d’une athérosclérose déjà constituée : plus il y a de calcium, plus le patient a accumulé des lésions athéromateuses au cours du temps. Il s’agit donc d’un marqueur de charge athéromateuse globale, et non uniquement d’un reflet de sténoses significatives.",
     "crumbs": [
       "Home",
-      "About",
-      "Introduction"
+      "Scanner",
+      "Score calcique coronarien"
+    ]
+  },
+  {
+    "objectID": "score_calcique_coronarien.html#principe-technique-de-lexamen",
+    "href": "score_calcique_coronarien.html#principe-technique-de-lexamen",
+    "title": "Score calcique coronarien",
+    "section": "",
+    "text": "Examen réalisé sur un scanner multibarrette.\nAcquisition centrée sur le cœur, généralement en apnée courte.\nSynchronisation à l’ECG (souvent en télésystole ou télédiastole selon les protocoles).\nAucune injection de produit de contraste iodé.\nIrradiation faible (ordre de grandeur : ≈ 1 mSv, variable selon les appareils et protocoles).\n\nLes images obtenues permettent de détecter les zones de forte densité calcique dans les artères coronaires, qui sont ensuite quantifiées par un logiciel dédié.\n\n\n\nscore calcique",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Score calcique coronarien"
+    ]
+  },
+  {
+    "objectID": "score_calcique_coronarien.html#comment-est-calculé-le-score",
+    "href": "score_calcique_coronarien.html#comment-est-calculé-le-score",
+    "title": "Score calcique coronarien",
+    "section": "",
+    "text": "Le score calcique le plus utilisé est le score d’Agatston. Il se calcule en plusieurs étapes :\n\nSeuil de densité\nLes voxels dont la densité est ≥ 130 unités Hounsfield (UH) sont considérés comme potentiellement calcifiés.\nDéfinition des lésions\nUne lésion calcique est définie comme un ensemble contigu de voxels calcifiés avec une surface minimale (par exemple ≥ 1 mm², selon les logiciels).\nCalcul de la surface\nPour chaque lésion, on mesure la surface en mm² sur les coupes scanographiques.\nPondération par la densité\nÀ chaque lésion, on associe un facteur de pondération basé sur la densité maximale :\n\n130–199 UH : facteur 1\n200–299 UH : facteur 2\n300–399 UH : facteur 3\n≥ 400 UH : facteur 4\n\nScore d’Agatston lésionnel\nPour chaque lésion :\nScore lésionnel = surface (mm²) × facteur de densité.\nScore total\nLe score total d’Agatston est la somme des scores de toutes les lésions calciques des principales artères coronaires :\n\ntronc commun (TC),\nartère interventriculaire antérieure (IVA),\nartère circonflexe (CX),\nartère coronaire droite (CD).\n\n\nCertains logiciels fournissent également : - un score par artère, - un volume calcique, - une masse calcique (moins dépendante des paramètres d’acquisition).",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Score calcique coronarien"
+    ]
+  },
+  {
+    "objectID": "score_calcique_coronarien.html#interprétation-du-score",
+    "href": "score_calcique_coronarien.html#interprétation-du-score",
+    "title": "Score calcique coronarien",
+    "section": "",
+    "text": "Une classification couramment utilisée est :\n\n\n\n\n\n\n\n\nScore Agatston total\nInterprétation\nRisque approximatif\n\n\n\n\n0\nAucun calcium détectable\nTrès faible\n\n\n1–10\nCalcifications minimes\nFaible\n\n\n11–100\nCalcifications modérées\nFaible à intermédiaire\n\n\n101–400\nCalcifications significatives\nIntermédiaire à élevé\n\n\n&gt; 400\nCalcifications sévères\nÉlevé\n\n\n\n\n\n\nAu-delà de la valeur absolue du score, il est souvent utile de le rapporter à l’âge et au sexe du patient via des courbes de percentiles (ex. tables MESA).\n\nUn score qui se situe au-dessus du 75e percentile pour l’âge et le sexe correspond à un risque plus élevé que celui de la population de référence.\nUn score de 0, quel que soit l’âge, est généralement rassurant et associé à un très bon pronostic à moyen terme.",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Score calcique coronarien"
+    ]
+  },
+  {
+    "objectID": "score_calcique_coronarien.html#indications-principales",
+    "href": "score_calcique_coronarien.html#indications-principales",
+    "title": "Score calcique coronarien",
+    "section": "",
+    "text": "Le score calcique est surtout utile chez les patients asymptomatiques ou peu symptomatiques, pour affiner la stratification du risque cardiovasculaire.\n\n\n\nSujet de 40 à 75 ans, sans antécédent cardiovasculaire, avec un risque cardiovasculaire global intermédiaire selon les scores cliniques (SCORE2, PCE, etc.).\nPatient avec facteurs de risque modérés (antécédents familiaux de maladie coronaire précoce, dyslipidémie, tabagisme, HTA) pour aider à décider de l’introduction d’un traitement par statine.\nPatient réticent à débuter un traitement de prévention primaire : un score calcique élevé peut faciliter la discussion thérapeutique.\n\n\n\n\n\nPatient déjà à très haut risque (antécédent d’infarctus, de revascularisation, diabète compliqué, etc.) : le score n’apporte en général pas d’information susceptible de modifier la prise en charge.\nSuspicion de syndrome coronarien aigu : il ne s’agit pas d’un examen d’urgence et il ne permet pas d’évaluer une sténose en temps réel.\nPatient très âgé : la prévalence du calcium est très élevée et la plus-value clinique peut être limitée.",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Score calcique coronarien"
+    ]
+  },
+  {
+    "objectID": "score_calcique_coronarien.html#intérêt-clinique",
+    "href": "score_calcique_coronarien.html#intérêt-clinique",
+    "title": "Score calcique coronarien",
+    "section": "",
+    "text": "Examen rapide (quelques minutes), indolore, non invasif.\nAbsence d’injection de produit de contraste.\nFaible irradiation par rapport à d’autres explorations.\nExcellente valeur prédictive négative : un score = 0 est associé à un risque très faible d’événement coronaire à 5–10 ans chez les patients asymptomatiques.\nPermet :\n\nd’affiner la stratification du risque,\nd’aider à la décision thérapeutique (statine, aspirine dans certains cas),\nde renforcer la motivation du patient aux mesures hygiéno-diététiques en visualisant les calcifications.\n\n\n\n\n\n\nNe détecte pas les plaques non calcifiées, qui peuvent pourtant être vulnérables et responsables de syndromes coronariens aigus.\nNe donne pas la sévérité des sténoses en termes de réduction de calibre (à la différence de l’angio-TDM coronarienne).\nRésultats dépendants de la qualité de l’acquisition (rythme cardiaque, mouvements, artefacts).\nInterprétation qui doit toujours être replacée dans le contexte clinique global.",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Score calcique coronarien"
+    ]
+  },
+  {
+    "objectID": "score_calcique_coronarien.html#exemples-cliniques-vignettes-simplifiées",
+    "href": "score_calcique_coronarien.html#exemples-cliniques-vignettes-simplifiées",
+    "title": "Score calcique coronarien",
+    "section": "",
+    "text": "Homme de 55 ans, dyslipidémique, léger surpoids, non fumeur, sans symptôme : - Score calcique = 0. - Risque d’événement coronaire à 10 ans très faible. - On peut discuter d’une simple prévention hygiéno-diététique et éventuellement de différer la statine selon les recommandations et le profil global.\n\n\n\nFemme de 60 ans, HTA bien contrôlée, antécédents familiaux de maladie coronaire : - Score calcique = 150, principalement sur l’IVA. - Athérosclérose déjà constituée. - Justifie en général : - introduction ou intensification d’un traitement par statine, - prise en charge active des facteurs de risque, - discussion (selon le contexte) d’aspirine à faible dose si le rapport bénéfice/risque est favorable.\n\n\n\nHomme de 65 ans, fumeur actif, diabétique : - Score calcique = 600. - Maladie athéromateuse coronarienne sévère. - Risque élevé d’événement coronarien. - Conduite : - prévention agressive (statine forte intensité, arrêt du tabac, contrôle strict de la pression artérielle et du diabète), - discussion d’examens complémentaires (ex. épreuve d’effort, écho de stress, voire angio-TDM coronarienne selon le contexte clinique).",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Score calcique coronarien"
+    ]
+  },
+  {
+    "objectID": "score_calcique_coronarien.html#perspectives-et-développements-récents",
+    "href": "score_calcique_coronarien.html#perspectives-et-développements-récents",
+    "title": "Score calcique coronarien",
+    "section": "",
+    "text": "Intégration du score calcique dans des scores composites de risque (ex. MESA, CAC-DRS).\nDéveloppement d’outils d’intelligence artificielle pour :\n\nla détection automatique des calcifications,\nl’estimation opportuniste du score sur des scanners thoraciques réalisés pour d’autres indications.\n\nUtilisation croissante du score calcique dans les recommandations internationales pour la prévention primaire de la maladie coronarienne.",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Score calcique coronarien"
+    ]
+  },
+  {
+    "objectID": "score_calcique_coronarien.html#conclusion",
+    "href": "score_calcique_coronarien.html#conclusion",
+    "title": "Score calcique coronarien",
+    "section": "",
+    "text": "Le score calcique coronarien est un outil simple, rapide et robuste pour évaluer la charge athéromateuse coronaire et affiner la stratification du risque cardiovasculaire, en particulier en prévention primaire chez les patients à risque intermédiaire.\n\nUn score = 0 est généralement très rassurant.\nUn score élevé doit conduire à renforcer la prévention, en particulier le traitement hypolipémiant et la correction des facteurs de risque.\n\nSon interprétation doit toujours être réalisée en lien avec le contexte clinique, les scores de risque classiques et, lorsque nécessaire, d’autres examens d’imagerie fonctionnelle ou anatomique.",
+    "crumbs": [
+      "Home",
+      "Scanner",
+      "Score calcique coronarien"
     ]
   }
 ]

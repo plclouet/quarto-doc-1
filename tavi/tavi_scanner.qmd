@@ -1,5 +1,5 @@
 ---
-title: "scanner"
+title: "TAVI"
 ---
 
 
@@ -18,30 +18,28 @@ Nécessité	de	disposer	d’un	scanner	avec synchronisation	à	l’ECG	(gating)
 
 ## acquisition injectée
 
-Acquisition	cervico-thoraco-abdomino-pelvienne synchronisée	à l’ECG	après injection	de	produit	de contraste iodé centrée sur le coeur
-
----
+Acquisition	cardiaque synchronisée	à l’ECG	après injection	de	produit	de contraste iodé centrée sur le coeur puis une acquisition non synchronisée à l'ECG sur la région cervico-thoraco-abdomino-pelvienne.
 
 
+## éléments indispensables
 
-::: 
+liste:
+
+  - la surface de l'anneau,
+  - ses diamètres
+
 
 ![image 1](tavi-1.png)
 
-<!-- ![image 2](dd454.jpg)
 
-![image 3](dd908.jpg) -->
-
-:::
-
----
+***
 
 # Commentaires
 
 Les reconstructions coronales permettent une meilleure appréciation de la taille réelle du nodule.  
 La courbe d'évolution montre une stabilité sur 12 mois.
 
----
+***
 
 # un autre paragraphe
 

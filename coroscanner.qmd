@@ -1,0 +1,208 @@
+---
+title: "Coroscanner"
+author: "PLC"
+lang: fr
+---
+
+# Le coroscanner (angioscanner coronarien) : examen clé de l’imagerie coronarienne
+
+![Vue 3D du coeur](images/coroscanner_1.png)
+
+## 1. Introduction
+
+Le **coroscanner**, ou *angioscanner coronarien* (Coronary CT Angiography — CCTA), est un examen d’imagerie non invasif qui permet de visualiser avec une très haute résolution les **artères coronaires** grâce à un **scanner injecté synchronisé à l’ECG**.
+
+Il s’agit aujourd’hui de l’un des examens majeurs pour évaluer :
+
+- la présence de **sténoses coronaires**,  
+- le type et la composition des **plaques athéromateuses**,  
+- les **anomalies de naissance ou de trajet** des artères coronaires,  
+- les pontages et certains stents (selon leur calibre et la qualité des images).
+
+## 2. Principes de l’examen
+
+Le coroscanner repose sur :
+
+- l’utilisation d’un **scanner multibarrette** (64 coupes ou plus, parfois double source),  
+- une **injection de produit de contraste iodé** pour opacifier la lumière des artères,  
+- une **synchronisation à l’ECG** (acquisition prospective ou rétrospective),  
+- des techniques de réduction de dose (basse tension, reconstruction itérative).
+
+L’objectif est d’obtenir des images relativement **« figées »** du cœur, idéalement en diastole, lorsque les artères coronaires bougent le moins.
+
+## 3. Déroulement de l’examen
+
+1. **Préparation et entretien pré-examen**  
+   Recueil des antécédents (allergies, insuffisance rénale, maladies cardiaques, traitements en cours) et évaluation du rythme cardiaque.
+
+2. **Préparation médicamenteuse (si nécessaire)**  
+   - Bêtabloquants pour ralentir la fréquence cardiaque (objectif souvent < 60 bpm).  
+   - Dérivés nitrés pour favoriser la vasodilatation coronarienne (variable selon les protocoles).
+
+3. **Installation et repérage**  
+   Le patient est allongé en décubitus dorsal sur la table, avec une voie veineuse périphérique de bon calibre (souvent bras droit). Des repérages non injectés sont réalisés.
+
+4. **Acquisition synchronisée à l’ECG**  
+   L’acquisition principale est effectuée pendant une **apnée courte** (quelques secondes). Le scanner enregistre les données en tenant compte du cycle cardiaque, ce qui permet une reconstruction centrée sur la phase la plus stable.
+
+5. **Injection de produit de contraste iodé**  
+   L’injection se fait à l’aide d’un injecteur automatique, avec un débit élevé, et un suivi de bolus (*bolus tracking*) permet de déclencher l’acquisition au moment optimal.
+
+6. **Reconstruction des images**  
+   Les images sont reconstruites dans différents plans :
+   - **MPR** (reconstructions multiplanaires),  
+   - **MIP** (Maximum Intensity Projection),  
+   - **VR** (Volume Rendering 3D).  
+
+## 4. Indications principales
+
+Les principales indications du coroscanner sont :
+
+- **Suspicion de maladie coronarienne stable** chez un patient avec un risque cardiovasculaire faible ou intermédiaire.  
+- **Évaluation de douleurs thoraciques atypiques** lorsque la probabilité de maladie coronarienne significative n’est pas élevée.  
+- **Exploration de malformations coronaires congénitales** (origine anormale, trajet interartériel, etc.).  
+- **Bilan préopératoire** (par exemple avant une chirurgie valvulaire type TAVI, certaines chirurgies cardiaques ou vasculaires).  
+- **Contrôle des pontages aorto-coronariens** (perméabilité des greffons).  
+- **Évaluation de stents** coronaires de calibre suffisant (souvent ≥ 3 mm, selon le scanner et les conditions).
+
+## 5. Contre-indications et précautions
+
+### 5.1 Contre-indications relatives ou absolues
+
+- **Allergie sévère documentée aux produits de contraste iodés**.  
+- **Insuffisance rénale sévère** (clairance de la créatinine très diminuée), sauf stratégie spécifique discutée.  
+- **Troubles du rythme importants** (fibrillation auriculaire rapide, extrasystoles fréquentes) rendant la synchronisation difficile.  
+- **Tachycardie non contrôlable** malgré les bêtabloquants.  
+- **Incapacité à maintenir une apnée correcte** (dyspnée sévère, anxiété majeure).
+
+### 5.2 Précautions
+
+- Vérifier la **fonction rénale** avant l’injection (créatininémie, DFG estimé).  
+- Adapter ou interrompre transitoirement certains traitements (ex. metformine) selon les recommandations locales.  
+- Surveillance accrue chez les patients à risque de **réaction allergique** (pré-médication éventuelle).
+
+## 6. Informations fournies par le coroscanner
+
+Le coroscanner permet une analyse très détaillée des coronaires :
+
+### 6.1 Anatomie coronarienne
+
+- Origine des artères coronaires (gauche, droite, anomalies d’émergence).  
+- Trajets des segments proximaux, moyens et distaux.  
+- **Dominance coronaire** (droite, gauche ou équilibrée).  
+- Présence d’anomalies de trajet (intramyocardique, interartériel, etc.).
+
+### 6.2 Plaques et athérosclérose
+
+![sténose coronarienne](images/coroscanner_3.png)
+
+Le coroscanner permet d’identifier et de caractériser les **plaques athéromateuses** :
+
+- **Plaques calcifiées**,  
+- **Plaques non calcifiées**,  
+- **Plaques mixtes**.
+
+Certaines caractéristiques sont associées à une vulnérabilité accrue :
+
+- faible densité,  
+- remodelage positif,  
+- calcifications ponctuées (*spotty calcifications*),  
+- aspect en « *napkin-ring sign* ».  
+
+### 6.3 Sténoses coronaires
+
+Le coroscanner évalue :
+
+- le **taux de rétrécissement luminal** (en %),  
+- la localisation des sténoses,  
+- le nombre de vaisseaux atteints (mono, bi ou tritronculaire),  
+- l’aspect de la plaque responsable (molle, calcifiée, mixte).
+
+### 6.4 Pontages et stents
+
+- Analyse de la **perméabilité des pontages** (saphènes, artériels).  
+- Évaluation des **stents** de calibre suffisant (limites pour les stents de petit diamètre ou très calcifiés).
+
+## 7. Performance diagnostique
+
+Les performances du coroscanner ont été largement étudiées et montrent :
+
+- une **sensibilité très élevée** (souvent > 90 %) pour la détection des sténoses coronaires significatives,  
+- une **spécificité variable** (souvent 70–90 %, réduite en cas de calcifications massives),  
+- surtout une **valeur prédictive négative (VPN) excellente**, pouvant atteindre 95–99 % dans certaines cohortes.
+
+En pratique, un coroscanner de bonne qualité **normal** (sans sténose significative) permet d’écarter avec une grande confiance une maladie coronarienne obstructive.
+
+## 8. Limites de l’examen
+
+Malgré ses qualités, le coroscanner présente certaines limites :
+
+- **Calcifications massives** : les artefacts de blooming peuvent gêner la visualisation de la lumière et réduire la spécificité.  
+- **Troubles du rythme** : fibrillation auriculaire, extrasystoles nombreuses peuvent entraîner des artefacts de mouvement.  
+- **Obésité importante** : augmentation du bruit d’image, parfois besoin d’augmenter la dose.  
+- **Stents de petit diamètre** : difficile d’analyser la lumière interne.  
+- Nécessité d’une **coopération** du patient (apnée correcte).
+
+## 9. Comparaison avec les autres examens coronaires
+
+| Examen                               | Type d’information          | Points forts                                     | Principales limites                                      |
+|-------------------------------------|------------------------------|-------------------------------------------------|---------------------------------------------------------|
+| **Coroscanner (CCTA)**              | Anatomique                   | VPN très élevée, non invasif, analyse des plaques | Irradiant, produit iodé, spécificité réduite si calcium |
+| **Épreuve d’effort ECG**            | Fonctionnelle                | Simple, peu coûteuse                             | Sensibilité/spécificité limitées                        |
+| **Échocardiographie de stress**     | Fonctionnelle                | Non irradiant, bonne évaluation du myocarde      | Opérateur-dépendant, fenêtre acoustique parfois limitée |
+| **Scintigraphie myocardique**       | Fonctionnelle                | Bonne sensibilité pour ischémie                  | Irradiant, disponibilité variable                       |
+| **IRM cardiaque de stress**         | Fonctionnelle + tissulaire   | Excellente résolution tissulaire, non irradiant  | Plus longue, contre-indications IRM possibles           |
+| **Coronarographie invasive**        | Anatomique + thérapeutique   | Gold standard, possibilité d’angioplastie        | Invasive, risques de complications, hospitalisation     |
+
+## 10. Dose d’irradiation et sécurité
+
+Grâce aux progrès techniques (acquisitions prospectives, basse tension, reconstruction itérative), la dose d’irradiation d’un coroscanner moderne peut être réduite à :
+
+- **≈ 1 à 4 mSv**, selon les protocoles et le matériel.
+
+Cela reste généralement inférieur ou comparable à certains autres examens d’imagerie thoracique ou cardiologique.
+
+La sécurité du produit de contraste repose sur :
+
+- la vérification de la **fonction rénale**,  
+- l’identification des antécédents d’**allergie** ou d’intolérance,  
+- l’hydratation adaptée et la prévention des complications.
+
+## 11. Exemples de compte-rendu simplifié
+
+### 11.1 Coroscanner normal
+
+> **Conclusion :** artères coronaires sans sténose significative.  
+> Calcium coronaire absent ou minime.  
+> Aucune anomalie de naissance ou de trajet.  
+> Aspect rassurant, pas d’argument en faveur d’une maladie coronarienne obstructive.
+
+### 11.2 Sténose intermédiaire
+
+> **Conclusion :** plaque mixte au niveau du segment moyen de l’IVA, responsable d’un rétrécissement estimé à 50 %.  
+> Autres segments sans sténose significative.  
+> Discussion d’un examen fonctionnel complémentaire (échocardiographie de stress, scintigraphie, IRM de stress) selon le contexte clinique.
+
+### 11.3 Sténose sévère
+
+> **Conclusion :** sténose serrée (> 70 %) de l’IVA proximale liée à une plaque non calcifiée.  
+> Recommandation de coronarographie invasive en vue d’une éventuelle revascularisation.
+
+## 12. Place du coroscanner dans la prise en charge globale
+
+Le coroscanner occupe une place centrale dans la stratégie diagnostique de la maladie coronarienne :
+
+- outil de choix pour **exclure** une maladie coronarienne significative chez des patients sélectionnés ;  
+- complément utile aux **tests fonctionnels**, notamment lorsque ceux-ci sont non concluants ;  
+- aide à la **stratification du risque** et à la planification d’éventuelles stratégies de revascularisation.
+
+## 13. Conclusion
+
+Le **coroscanner** est devenu un **pilier de l’imagerie cardiovasculaire moderne**. Il combine :
+
+- une excellente **valeur prédictive négative**,  
+- une **visualisation fine** de l’anatomie coronarienne et des plaques,  
+- un caractère **non invasif**,  
+- une **irradiation maîtrisée** grâce aux techniques récentes.
+
+Son utilisation doit être intégrée dans une approche globale, en tenant compte du **profil de risque du patient**, de la **probabilité pré-test** et des autres examens disponibles, afin d’optimiser la prise en charge de la maladie coronarienne.
