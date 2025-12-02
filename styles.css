@@ -63,8 +63,8 @@
   /* Ajuster le contenu pour enlever tout décalage */
   #quarto-content {
     margin-left: 0 !important;
-    padding-left: 15px !important;
-    padding-right: 15px !important;
+    padding-left: 8px !important;
+    padding-right: 8px !important;
     margin-top: 0 !important;
   }
   
@@ -72,6 +72,7 @@
   .column-body {
     margin-left: 0 !important;
     padding-left: 0 !important;
+    padding-right: 0 !important;
   }
   
   /* Enlever le margin de la sidebar "glass" overlay */
@@ -81,7 +82,8 @@
   
   /* Ajuster le container principal */
   .quarto-container {
-    padding-left: 0 !important;
+    padding-left: 8px !important;
+    padding-right: 8px !important;
     margin-left: 0 !important;
   }
 }
