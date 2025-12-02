@@ -13,8 +13,11 @@ website:
         text: score calcique
       - href: coroscanner.qmd
         text: coroscanner
+      - href: bilan_scanner_avant_TAVI_complet.qmd
+        text: Tavi scanner
       - href: tavi/tavi_scanner.qmd
-        text: Tavi
+        text: Tavi détails
+      
       
   sidebar:
     style: "docked"
@@ -30,7 +33,9 @@ website:
         contents:
           - score_calcique_coronarien.qmd
           - coroscanner.qmd
+          - bilan_scanner_avant_TAVI_complet.qmd
           - tavi/tavi_scanner.qmd
+          
           
 format:
   html:

@@ -145,14 +145,35 @@ Malgré ses qualités, le coroscanner présente certaines limites :
 
 ## 9. Comparaison avec les autres examens coronaires
 
-| Examen                               | Type d’information          | Points forts                                     | Principales limites                                      |
-|-------------------------------------|------------------------------|-------------------------------------------------|---------------------------------------------------------|
-| **Coroscanner (CCTA)**              | Anatomique                   | VPN très élevée, non invasif, analyse des plaques | Irradiant, produit iodé, spécificité réduite si calcium |
-| **Épreuve d’effort ECG**            | Fonctionnelle                | Simple, peu coûteuse                             | Sensibilité/spécificité limitées                        |
-| **Échocardiographie de stress**     | Fonctionnelle                | Non irradiant, bonne évaluation du myocarde      | Opérateur-dépendant, fenêtre acoustique parfois limitée |
-| **Scintigraphie myocardique**       | Fonctionnelle                | Bonne sensibilité pour ischémie                  | Irradiant, disponibilité variable                       |
-| **IRM cardiaque de stress**         | Fonctionnelle + tissulaire   | Excellente résolution tissulaire, non irradiant  | Plus longue, contre-indications IRM possibles           |
-| **Coronarographie invasive**        | Anatomique + thérapeutique   | Gold standard, possibilité d’angioplastie        | Invasive, risques de complications, hospitalisation     |
+### Coroscanner (CCTA)
+- **Type d’information** : anatomique  
+- **Points forts** : VPN très élevée, non invasif, analyse des plaques  
+- **Principales limites** : irradiant, produit iodé, spécificité réduite si calcium important  
+
+### Épreuve d’effort ECG
+- **Type d’information** : fonctionnelle  
+- **Points forts** : simple, peu coûteuse  
+- **Principales limites** : sensibilité et spécificité limitées  
+
+### Échocardiographie de stress
+- **Type d’information** : fonctionnelle  
+- **Points forts** : non irradiant, bonne évaluation du myocarde  
+- **Principales limites** : opérateur-dépendant, fenêtre acoustique parfois limitée  
+
+### Scintigraphie myocardique
+- **Type d’information** : fonctionnelle  
+- **Points forts** : bonne sensibilité pour l’ischémie  
+- **Principales limites** : irradiant, disponibilité variable  
+
+### IRM cardiaque de stress
+- **Type d’information** : fonctionnelle + tissulaire  
+- **Points forts** : excellente résolution tissulaire, non irradiant  
+- **Principales limites** : examen plus long, contre-indications IRM possibles  
+
+### Coronarographie invasive
+- **Type d’information** : anatomique + thérapeutique  
+- **Points forts** : gold standard, possibilité d’angioplastie  
+- **Principales limites** : examen invasif, risques de complications, hospitalisation  
 
 ## 10. Dose d’irradiation et sécurité
 
@@ -168,29 +189,14 @@ La sécurité du produit de contraste repose sur :
 - l’identification des antécédents d’**allergie** ou d’intolérance,  
 - l’hydratation adaptée et la prévention des complications.
 
-## 11. Exemples de compte-rendu simplifié
+## 11. Classification CAD-RADS
 
-### 11.1 Coroscanner normal
-
-> **Conclusion :** artères coronaires sans sténose significative.  
-> Calcium coronaire absent ou minime.  
-> Aucune anomalie de naissance ou de trajet.  
-> Aspect rassurant, pas d’argument en faveur d’une maladie coronarienne obstructive.
-
-### 11.2 Sténose intermédiaire
-
-> **Conclusion :** plaque mixte au niveau du segment moyen de l’IVA, responsable d’un rétrécissement estimé à 50 %.  
-> Autres segments sans sténose significative.  
-> Discussion d’un examen fonctionnel complémentaire (échocardiographie de stress, scintigraphie, IRM de stress) selon le contexte clinique.
-
-### 11.3 Sténose sévère
-
-> **Conclusion :** sténose serrée (> 70 %) de l’IVA proximale liée à une plaque non calcifiée.  
-> Recommandation de coronarographie invasive en vue d’une éventuelle revascularisation.
+La classification CAD-RADS (Coronary Artery Disease – Reporting and Data System) est un système de notation développé par l’American College of Radiology (ACR) pour aider à normaliser les rapports de coroscanner et faciliter la communication des résultats.
+La classification CAD-RADS 2.0 utilise une échelle de 0 à 5 pour classer la maladie coronarienne.
 
 ***
 
-La classification CAD-RADS résume la conclusion
+
 
 ![CAD-RADS](images/coroscanner_5.png)
 

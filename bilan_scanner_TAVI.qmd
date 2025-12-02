@@ -1,0 +1,112 @@
+---
+format: html
+title: Bilan scanner avant TAVI
+author: "PL Clouet"
+lang: fr
+---
+
+# 1. Introduction
+
+Le **TAVI (Transcatheter Aortic Valve Implantation)** est devenu une
+alternative majeure au remplacement valvulaire aortique chirurgical. Le
+**scanner cardiaque et thoraco-abdomino-pelvien** est un examen
+essentiel de la planification TAVI.
+
+# 2. Objectifs du scanner avant TAVI
+
+-   Analyse anatomique de la valve aortique et de l'anneau\
+-   Étude de la racine aortique et des coronaires\
+-   Évaluation de l'aorte\
+-   Analyse des voies d'abord périphériques
+
+# 3. Préparation du patient
+
+## 3.1. Contexte
+
+Réalisation chez tout candidat TAVI sauf contre-indication majeure au
+contraste.
+
+## 3.2. Évaluation rénale
+
+-   Créatinine, DFG\
+-   Hydratation, adaptation traitements
+
+## 3.3. Gestion du rythme
+
+Pas de bêta‑bloquants systématiques ; selon besoin pour coronaro‑CT.
+
+# 4. Protocole scanner : acquisition
+
+## 4.1. Matériel
+
+-   Scanner ≥64 coupes\
+-   Injection 70--100 mL à 4--6 mL/s
+
+## 4.2. Champs d'acquisition
+
+1.  Acquisition cardiaque (ECG-gated)\
+2.  Acquisition thoraco-abdomino-pelvienne
+
+# 5. Analyse de la valve et de l'anneau
+
+## 5.1. Type de valve
+
+Tricuspide ou bicuspide, calcifications, raphé.
+
+## 5.2. Mesures
+
+-   Diamètres min/max\
+-   Périmètre\
+-   Aire annulaire
+
+## 5.3. Calcifications
+
+Cartographie des cuspides, LVOT, jonction ST.
+
+# 6. Racine aortique, coronaires et LVOT
+
+-   Diamètres des sinus\
+-   Hauteur des ostia coronaires\
+-   Analyse du LVOT
+
+# 7. Aorte thoracique
+
+Recherche d'athérome, tortuosité, anévrismes.
+
+# 8. Voies d'abord périphériques
+
+## 8.1. Voie transfémorale
+
+-   Diamètre minimal\
+-   Calcifications\
+-   Tortuosité\
+-   Sténoses
+
+## 8.2. Voies alternatives
+
+Sous-clavière, carotidienne, transaortique.
+
+# 9. Facteurs de risque visibles au scanner
+
+-   Rupture annulaire\
+-   Obstruction coronaire\
+-   Complications vasculaires
+
+# 10. Modèle de compte-rendu
+
+Inclure : - Type de valve\
+- Mesures de l'anneau\
+- Hauteur coronaires\
+- LVOT\
+- Aorte\
+- Voies d'abord\
+- Conclusion pratique
+
+# 11. Place du scanner
+
+Complémentaire de l'écho, coronarographie, bilan gériatrique.
+
+# 12. Conclusion
+
+Le scanner pré‑TAVI est indispensable pour dimensionner la prothèse,
+choisir la voie d'abord et anticiper les risques.

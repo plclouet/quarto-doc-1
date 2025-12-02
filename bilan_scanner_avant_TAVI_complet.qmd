@@ -1,0 +1,432 @@
+---
+title: "Bilan scanner avant TAVI"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+lang: fr
+---
+
+# Introduction
+
+Le **TAVI (Transcatheter Aortic Valve Implantation)** est devenu une alternative majeure au remplacement valvulaire aortique chirurgical chez les patients à risque élevé ou intermédiaire, et désormais chez certains patients à risque faible, selon les recommandations récentes.
+
+Dans ce contexte, le **scanner cardiaque et thoraco-abdomino-pelvien** est un **examen pivot** de la planification TAVI. Il permet :
+
+- de **confirmer l’anatomie** de la valve aortique et de l’anneau ;
+- de **choisir la taille et le type de prothèse** ;
+- d’**évaluer les voies d’abord** (fémorales, iliaques, sous-clavières, carotidiennes, voire transaortiques) ;
+- de **dépister les contre-indications anatomiques** ou les facteurs de risque de complications (rupture annulaire, obstruction coronaire, dissection, complications vasculaires…).
+
+# Objectifs du scanner avant TAVI
+
+On peut résumer les objectifs en quatre grands axes :
+
+1. **Analyse anatomique de la valve aortique et de l’anneau**  
+2. **Étude de la racine aortique et des coronaires (position, hauteur)**  
+3. **Évaluation de l’aorte (ascendante, crosse, descendante)**  
+4. **Analyse des voies d’abord périphériques** (artères fémorales, iliaques, sous-clavières, parfois carotidiennes)
+
+# Préparation du patient
+
+## Indications et contexte
+
+Le scanner est réalisé chez tout patient **candidat à un TAVI**, sauf rare contre-indication formelle au contraste iodé ou impossibilité majeure :
+
+- allergie au produit de contraste iodé non contrôlable ;
+- insuffisance rénale terminale sans dialyse ou refus de dialyse ;
+- impossibilité de coopération ou de contention malgré les adaptations.
+
+## Évaluation rénale et risque lié au contraste
+
+Avant l’examen :
+
+- Bilan biologique :
+  - **créatininémie** ;
+  - **DFG estimé**.
+- Recherche de facteurs de risque de néphropathie de contraste :
+  - diabète ;
+  - néphropathie préexistante ;
+  - déshydratation ;
+  - traitements néphrotoxiques (AINS, certains antibiotiques, etc.).
+
+Mesures de prévention possibles selon le profil du patient :
+
+- hydratation orale ou IV adaptée ;
+- adaptation de certains traitements (par ex. metformine, AINS).
+
+## Gestion du rythme cardiaque
+
+Les patients TAVI sont souvent âgés, parfois en **fibrillation atriale** ou porteurs de **troubles de conduction**.
+
+- Le scanner de **planification TAVI** est généralement réalisé **sans bêta-bloquants systématiques**, car :
+  - la fréquence cardiaque n’a pas besoin d’être aussi basse que pour une coronarographie CT dédiée ;
+  - l’objectif est surtout **anatomique** (anneau, racine, voies d’abord).
+- Si une **évaluation coronarienne** détaillée est souhaitée, certains centres peuvent utiliser :
+  - bêta-bloquants oraux ou IV si FC élevée et absence de contre-indication ;
+  - dérivés nitrés sublinguaux.
+
+# Protocole scanner : acquisition
+
+## Matériel et technique d’injection
+
+- Scanner multibarrette :
+  - au minimum 64 coupes ;
+  - idéalement ≥ 128 pour de meilleures reconstructions temporelles et spatiales.
+- Injection de **produit de contraste iodé** :
+  - volume typique : 70 à 100 mL (adapté au poids et au DFG) ;
+  - débit : 4 à 6 mL/s via un cathéter veineux de bon calibre ;
+  - suivi d’un flush de sérum physiologique (20 à 40 mL).
+
+Le déclenchement se fait par :
+
+- **bolus-tracking** (ROI dans l’aorte ascendante), ou  
+- **test bolus** avec courbe densitométrique, selon les habitudes du centre.
+
+## Champs d’acquisition
+
+On distingue en pratique deux grandes étapes (qui peuvent être combinées dans un protocole optimisé) :
+
+1. **Acquisition cardiaque centrée sur la valve aortique** :
+   - du cœur (ou au minimum de la racine aortique) jusqu’à quelques centimètres au-dessus de l’aorte ascendante ;
+   - synchronisée à l’ECG (mode prospectif ou rétrospectif selon la machine et le protocole) ;
+   - reconstruction multiphasique possible si besoin.
+
+2. **Acquisition thoraco-abdomino-pelvienne** :
+   - de la **crosse aortique** jusqu’aux **artères fémorales** au niveau des cuisses ;
+   - non synchronisée ECG ;
+   - réalisée en phase artérielle.
+
+## Synchronisation ECG
+
+- **Étape cardiaque** :  
+  - ECG-gated pour :
+    - une mesure **précise de l’anneau aortique** ;
+    - une analyse de la **dynamique valvulaire** ;
+    - une évaluation de la **hauteur des ostia coronaires** en phase appropriée.
+- **Étape aorto-iliaque** :  
+  - non ECG-gated ;
+  - acquisition artérielle simple.
+
+# Analyse de la valve aortique et de l’anneau
+
+## Type de valve
+
+Le scanner permet de distinguer :
+
+- **Valve tricuspide** :
+  - la plus fréquente ;
+  - trois cuspides symétriques.
+- **Valve bicuspide** :
+  - relativement fréquente, surtout chez les sujets plus jeunes ;
+  - fusion de deux cuspides, présence éventuelle de **raphé** ;
+  - calcifications souvent asymétriques.
+
+Cette distinction est importante pour :
+
+- le **choix du type de prothèse** ;
+- l’évaluation du risque de **fuite paraprothétique**, de **malapposition** ou de **rupture**.
+
+## Mesures de l’anneau aortique
+
+Les mesures sont réalisées sur une **reconstruction multiplanaire (MPR)** en définissant le **plan de l’anneau** (ligne joignant les insertions des cuspides aortiques).
+
+Paramètres principaux à relever :
+
+- **Diamètre minimal** (mm) ;
+- **Diamètre maximal** (mm) ;
+- **Diamètre moyen** (approximation circulaire) ;
+- **Périmètre** de l’anneau (mm) ;
+- **Aire** de l’anneau (mm²).
+
+Ce sont ces valeurs qui servent au **dimensionnement de la prothèse** (ballon-expansible ou auto-expansible), selon les tableaux de sizing spécifiques à chaque fabricant.
+
+## Calcifications valvulaires et annulaire
+
+L’analyse des calcifications est cruciale :
+
+- **Localisation** :
+  - cuspides ;
+  - jonction sino-tubulaire ;
+  - LVOT (Left Ventricular Outflow Tract) ;
+  - autres structures adjacentes.
+- **Importance** :
+  - volume et densité (évaluation visuelle ou semi-quantitative) ;
+  - répartition symétrique ou asymétrique.
+
+Objectifs :
+
+- anticiper le **risque de rupture annulaire** en cas de surdimensionnement ou de forte post-dilatation ;
+- anticiper le **risque de fuite paraprothétique** ;
+- guider la nécessité éventuelle de pré- ou post-dilatation.
+
+# Racine aortique, coronaires et LVOT
+
+## Racine aortique
+
+Mesures habituelles :
+
+- **Diamètre des sinus de Valsalva** ;
+- **Diamètre de la jonction sino-tubulaire** ;
+- **Diamètre de l’aorte ascendante proximale**.
+
+Intérêts :
+
+- dépister un **anévrisme** ou une dilatation significative ;
+- évaluer la compatibilité avec certaines prothèses ;
+- anticiper les risques de **mismatch** ou de malposition.
+
+## Hauteur des ostia coronaires
+
+La hauteur des ostia coronaires est un paramètre clé pour le **risque d’obstruction coronaire** lors de l’implantation :
+
+- mesure de la distance entre le **plan de l’anneau aortique** et l’**ostium de la coronaire droite** ;
+- mesure de la distance entre le **plan de l’anneau** et l’**ostium de la coronaire gauche**.
+
+En pratique :
+
+- une **hauteur < 10–12 mm** est généralement considérée comme un **facteur de risque élevé** d’occlusion coronaire lors du déploiement, particulièrement :
+  - avec des valves **ballon-expansibles** ;
+  - en présence de **cuspides très calcifiées et volumineuses**.
+
+Il faut aussi évaluer :
+
+- la **morphologie des sinus de Valsalva** (largeur, symétrie) ;
+- la **position et le trajet des coronaires** (anomalies de naissance, trajet intramural, etc.).
+
+## LVOT (Left Ventricular Outflow Tract)
+
+Pour le LVOT, on recherche :
+
+- dimensions (diamètres et aire) ;
+- présence de **calcifications**, notamment au niveau du septum.
+
+Intérêt :
+
+- les calcifications du LVOT, surtout septales, augmentent le **risque de rupture** en cas de surdimensionnement de la prothèse ou de post-dilatation agressive.
+
+# Aorte thoracique : crosse et aorte descendante
+
+Sur l’aorte thoracique (ascendante, crosse et descendante), on évalue :
+
+- **Athérome** :
+  - plaques molles ou calcifiées ;
+  - ulcérations.
+- **Anévrismes** ou dilatations segmentaires ;
+- **Dissections** ou ulcères pénétrants ;
+- **Tortuosité importante**.
+
+Intérêts :
+
+- pour une éventuelle **voie d’abord transaortique** ;
+- pour évaluer le **risque de migration des guides et des cathéters** lors de la procédure.
+
+# Étude des voies d’abord périphériques
+
+L’analyse des voies d’abord périphériques est une partie **essentielle** du bilan scanner pré-TAVI.
+
+## Voie transfémorale (voie de référence)
+
+La voie transfémorale est la plus fréquemment utilisée. Le scanner doit analyser de façon **systématique** :
+
+- les **artères iliaques communes** ;
+- les **artères iliaques externes** ;
+- les **artères fémorales communes** ;
+- si besoin, le début des **artères fémorales superficielles**.
+
+### Paramètres à relever
+
+1. **Diamètre luminal minimal** (mm) :
+   - Critique pour savoir si les gaines de TAVI peuvent être introduites (souvent besoin de ≥ 5,5–6 mm selon la prothèse et le système de largage).
+2. **Calcifications** :
+   - circonférentielles vs excentrées ;
+   - longues plaques calcifiées ou segments courts.
+3. **Tortuosité** :
+   - tortuosité modérée vs extrême, pouvant compliquer l’avancement du matériel ;
+   - association avec calcifications, augmentant le risque de **dissection** ou de **rupture**.
+4. **Sténoses / occlusions** :
+   - sténoses significatives pouvant nécessiter une **revascularisation préalable** (angioplastie, stent) ;
+   - occlusions longues contre-indiquant la voie transfémorale directe.
+
+### Conclusion sur la voie transfémorale
+
+La synthèse doit permettre de classer la voie transfémorale comme :
+
+- **favorable** ;
+- **délicate mais possible**, avec précautions (ex. pré-dilatation, endoprothèse préalable) ;
+- **défavorable / contre-indiquée**, nécessitant une voie alternative.
+
+## Voies d’abord alternatives
+
+En cas de voie transfémorale défavorable, d’autres accès sont envisagés :
+
+### Voie sous-clavière / axillaire
+
+Le scanner analyse :
+
+- le **diamètre luminal** ;
+- les **calcifications** ;
+- la **tortuosité** du segment proximal ;
+- les rapports anatomiques avec les structures adjacentes.
+
+### Voie carotidienne
+
+Le scanner permet :
+
+- d’évaluer le **diamètre** ;
+- de détecter des **sténoses** ou **plaques d’athérome** ;
+- d’anticiper le risque embolique ou les difficultés techniques.
+
+### Voie transaortique
+
+Elle nécessite :
+
+- une évaluation précise de **l’aorte ascendante** :
+  - diamètre ;
+  - calcifications (notamment « porcelaine aorta ») ;
+  - distance par rapport au sternum, importante si une mini-sternotomie est envisagée.
+
+Le scanner fournit ainsi une **cartographie complète** des voies d’abord potentielles et aide la Heart Team à **hiérarchiser les options**.
+
+# Complications potentielles et facteurs de risque visibles au scanner
+
+Le scanner pré-TAVI permet d’identifier plusieurs **facteurs prédictifs de complications** :
+
+## Risque de rupture annulaire
+
+Facteurs contributifs :
+
+- **Surdimensionnement important** de la prothèse par rapport à l’anneau mesuré ;
+- **Calcifications massives** de l’anneau ou du LVOT ;
+- faible compliance de l’anneau (visuellement très rigide).
+
+## Risque d’obstruction coronaire
+
+Facteurs :
+
+- **Hauteur coronaire basse** (< 10–12 mm) ;
+- **Sinus de Valsalva étroits** ;
+- **Cuspides volumineuses et calcifiées** susceptibles de basculer devant l’ostium lors du déploiement.
+
+## Risque de complication vasculaire
+
+En lien avec les voies d’abord :
+
+- **Diamètres limites** des iliaques/fémorales ;
+- **Calcifications circonférentielles** (« en rail ») ;
+- **Tortuosité extrême** ;
+- présence d’**anévrisme**, de dissection ou de stent préexistant.
+
+## Risque de mismatch prothèse–patient
+
+- **Anneau très petit** ou morphologie atypique ;
+- **Aorte ascendante dilatée** ou racine aortique très large ;
+- éventuellement, risque de **gradients résiduels élevés**.
+
+# Compte-rendu : éléments indispensables
+
+Un **compte-rendu structuré** est fortement recommandé. Voici une trame possible.
+
+## 1. Valve aortique et anneau
+
+- Type de valve :
+  - tricuspide / bicuspide ;
+  - présence de raphé éventuel.
+- Calcifications :
+  - répartition (cuspides, anneau, LVOT) ;
+  - importance (faible/modérée/massive).
+- Mesures de l’anneau :
+  - diamètres minimal, maximal et moyen (mm) ;
+  - périmètre (mm) ;
+  - aire (mm²).
+
+## 2. Racine aortique
+
+- Diamètre des **sinus de Valsalva** (mm) ;
+- Diamètre de la **jonction sino-tubulaire** (mm) ;
+- Diamètre de l’**aorte ascendante proximale** (mm) ;
+- Particularités (dilatation, anévrisme, etc.).
+
+## 3. Coronaires
+
+- Hauteur de l’**ostium coronaire droit** (mm) par rapport au plan de l’anneau ;
+- Hauteur de l’**ostium coronaire gauche** (mm) ;
+- Largeur des sinus de Valsalva ;
+- Anomalies éventuelles de naissance ou de trajet coronaires.
+
+## 4. LVOT
+
+- Diamètres et aire du LVOT ;
+- Présence de **calcifications septales** ou autres ;
+- Commentaire sur le risque accru de rupture si très calcifié.
+
+## 5. Aorte thoracique
+
+- Description des **plaques d’athérome**, ulcérations, thrombus ;
+- Recherche d’**anévrisme** ou de **dissection** ;
+- Évaluation de la **tortuosité** (faible/modérée/importante).
+
+## 6. Voies d’abord
+
+Pour chaque segment étudié (iliaque commune, iliaque externe, fémorale commune, et le cas échéant sous-clavière, axillaire, carotide) :
+
+- **Diamètre minimal** (mm) ;
+- **Calcifications** :
+  - type (excentrées/circonférentielles) ;
+  - étendue.
+- **Tortuosité** :
+  - faible/modérée/sévère.
+- Sténoses ou anomalies (anévrismes, dissections, stents).
+
+Conclusion sur :
+
+- la **voie transfémorale** : favorable / possible avec précautions / défavorable ;
+- les **voies alternatives** potentiellement utilisables.
+
+## 7. Conclusion pratique
+
+Une courte conclusion, orientée vers l’équipe TAVI :
+
+- **Taille(s) de prothèse(s) envisageable(s)** d’après les mesures de l’anneau et les recommandations du fabricant ;
+- **Voie d’abord privilégiée** (ex. : transfémorale droite) ;
+- **Points de vigilance** :
+  - risque d’obstruction coronaire ;
+  - risque de rupture annulaire ;
+  - risque de complication vasculaire.
+
+# Place du scanner par rapport aux autres examens
+
+Le bilan pré-TAVI est **multimodal**. Le scanner s’intègre dans un ensemble comprenant :
+
+- **Échocardiographie transthoracique (ETT)** :
+  - quantification du rétrécissement aortique ;
+  - évaluation de la fonction ventriculaire gauche ;
+  - analyse des autres valvulopathies (mitrale, tricuspide…).
+- **Échocardiographie transœsophagienne (ETO)** (selon les cas) :
+  - analyse détaillée de la valve et de l’aorte ascendante ;
+  - recherche de thrombus intra-cardiaques.
+- **Coronarographie invasive** ou **coronaro-CT dédiée** :
+  - bilan des coronaropathies à revasculariser avant ou pendant le TAVI.
+- **Évaluation gériatrique et clinique globale** :
+  - fragilité, comorbidités, autonomie ;
+  - discussion globale au sein de la **Heart Team**.
+
+Le **scanner** constitue cependant **l’examen central pour la planification anatomique** de la procédure.
+
+# Conclusion
+
+Le **bilan scanner avant TAVI** est une étape incontournable de la prise en charge des patients candidats au TAVI. Il permet :
+
+- de **dimensionner correctement la prothèse** ;
+- de **choisir la voie d’abord la plus sûre** ;
+- d’**identifier les facteurs de risque** de complications (rupture annulaire, obstruction coronaire, complications vasculaires) ;
+- de contribuer de façon déterminante à la **sécurité** et au **succès de la procédure**.
+
+Pour le radiologue, les enjeux sont :
+
+- maîtriser les **protocoles d’acquisition** adaptés ;
+- connaître les **mesures indispensables** et leur interprétation ;
+- produire un **compte-rendu structuré, clair et orienté décision clinique**, en lien étroit avec la Heart Team.
+
+Ce document peut servir de **base de formation** et de **référence pratique** pour la routine clinique et l’enseignement.

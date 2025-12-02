@@ -1,6 +1,6 @@
 ---
 title: "Score calcique coronarien"
-author: "PLC"
+author: "PL Clouet"
 lang: fr
 ---
 

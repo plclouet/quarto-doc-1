@@ -36,4 +36,52 @@
     flex: 1 1 100%;
     text-align: center;
   }
+
+  /* Cacher la navigation secondaire (breadcrumbs et toggle) */
+  .quarto-secondary-nav {
+    display: none !important;
+  }
+  
+  /* Cacher la sidebar et ses boutons */
+  #quarto-sidebar {
+    display: none !important;
+  }
+  
+  .sidebar, .sidebar-navigation {
+    display: none !important;
+  }
+  
+  .quarto-sidebar-collapse-item {
+    display: none !important;
+  }
+  
+  /* Cacher le bouton toggle de la sidebar */
+  button[data-bs-target=".quarto-sidebar-collapse-item"] {
+    display: none !important;
+  }
+  
+  /* Ajuster le contenu pour enlever tout décalage */
+  #quarto-content {
+    margin-left: 0 !important;
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    margin-top: 0 !important;
+  }
+  
+  /* Ajuster la colonne principale */
+  .column-body {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+  }
+  
+  /* Enlever le margin de la sidebar "glass" overlay */
+  #quarto-sidebar-glass {
+    display: none !important;
+  }
+  
+  /* Ajuster le container principal */
+  .quarto-container {
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+  }
 }
