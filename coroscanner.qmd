@@ -6,7 +6,7 @@ lang: fr
 
 # Le coroscanner (angioscanner coronarien) : examen clé de l’imagerie coronarienne
 
-![Vue 3D du coeur](images/coroscanner_1.png)
+![Vue 3D du coeur](images/coroscanner_6.png)
 
 ## 1. Introduction
 

@@ -40,7 +40,7 @@ website:
 format:
   html:
     theme:
-      - superhero
+      - flatly
       - brand
     css: styles.css
     toc: true
